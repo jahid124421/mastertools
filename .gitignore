@@ -1,0 +1,7 @@
+# Never commit secrets or local junk
+*.env
+my-keys.env
+.DS_Store
+Thumbs.db
+node_modules/
+*.log

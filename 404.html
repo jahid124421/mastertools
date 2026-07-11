@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Redirecting… — MasterTools</title>
+  <!-- Static-host SPA fallback: send unknown paths back to the app, preserving the route in the hash. -->
+  <script>
+    (function () {
+      var path = window.location.pathname.replace(/^\/+/, "");
+      var target = "/";
+      if (path && path !== "index.html") target = "/#/" + path.replace(/\/$/, "");
+      window.location.replace(target + window.location.search);
+    })();
+  </script>
+  <meta http-equiv="refresh" content="0; url=/" />
+</head>
+<body style="font-family:system-ui,sans-serif;background:#0b0f1f;color:#cbd5e1;text-align:center;padding:60px">
+  Redirecting to <a href="/" style="color:#22d3ee">MasterTools</a>…
+</body>
+</html>

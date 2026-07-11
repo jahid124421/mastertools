@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
+<!--
+  This is a hash-router single-page app, so search engines index the root URL.
+  For per-tool ranking, run the pre-render build (see DEPLOY.md > "SEO: per-tool pages")
+  to generate one static /tool-name/ page per tool and expand this sitemap.
+-->

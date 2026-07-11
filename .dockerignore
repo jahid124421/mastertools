@@ -1,0 +1,7 @@
+Dockerfile
+.dockerignore
+deploy/
+.git/
+.gitignore
+railway.json
+DEPLOY_GITHUB_RAILWAY.md
