@@ -7,6 +7,17 @@
   const searchResults = document.getElementById("searchResults");
   document.getElementById("year").textContent = new Date().getFullYear();
 
+  /* ---------- Cookie consent ---------- */
+  (function cookieConsent() {
+    const banner = document.getElementById("cookieBanner");
+    if (!banner) return;
+    if (!localStorage.getItem("mt-consent")) banner.hidden = false;
+    const close = (choice) => { localStorage.setItem("mt-consent", choice); banner.hidden = true; };
+    const ok = document.getElementById("cookieOk"), no = document.getElementById("cookieNo");
+    if (ok) ok.addEventListener("click", () => close("accepted"));
+    if (no) no.addEventListener("click", () => close("declined"));
+  })();
+
   /* ---------- Theme (sci-fi dark by default) ---------- */
   const themeToggle = document.getElementById("themeToggle");
   const savedTheme = localStorage.getItem("mt-theme");
@@ -134,11 +145,88 @@
   }
 
   function renderStatic(page) {
+    // NOTE: replace the [BRACKETED] placeholders with your real details before launch.
+    const SITE = "MasterTools";
+    const EMAIL = "[your-email@example.com]";
+    const OWNER = "[Your Name or Company]";
+    const UPDATED = "[Month DD, YYYY]";
     const pages = {
-      about: `<h1>About MasterTools</h1><p>MasterTools bundles hundreds of everyday utilities into one fast, private, ad-supported site. Most tools run entirely in your browser — your files never leave your device.</p><p>Built to be extended: every tool is one entry in the catalog plus one function. Premium tools (AI transcription, background removal, PDF↔Word) run on a backend and form the paid tier.</p>`,
-      privacy: `<h1>Privacy</h1><p>Client-side tools process everything locally in your browser; files are not uploaded. Premium/AI tools that require a server will state so before use. We use ads to keep the free tools free.</p>`
+      about:
+        "<h1>About " + SITE + "</h1>" +
+        "<p>" + SITE + " is a free collection of 200+ online tools — PDF, image, video, text, converters, calculators, developer and security utilities — all in one fast, private place.</p>" +
+        "<p><b>Privacy by design:</b> almost every tool runs entirely in your browser. Your files are processed on your own device and are not uploaded to any server. A few clearly-labelled tools call public APIs or download an AI model on first use; those are noted on the tool and in our Privacy Policy.</p>" +
+        "<p>The site is kept free through advertising. If you find it useful, sharing it helps a lot. Questions or feedback? See the <a href='#/page/contact'>Contact</a> page.</p>",
+
+      contact:
+        "<h1>Contact Us</h1>" +
+        "<p>We'd love to hear from you — feedback, bug reports, tool requests or business enquiries.</p>" +
+        "<p><b>Email:</b> <a href='mailto:" + EMAIL + "'>" + EMAIL + "</a></p>" +
+        "<p>We usually reply within 2–3 business days. When reporting a problem with a tool, please include the tool name and your browser so we can help faster.</p>" +
+        "<p>Operated by " + OWNER + ".</p>",
+
+      privacy:
+        "<h1>Privacy Policy</h1>" +
+        "<p class='hint'>Last updated: " + UPDATED + "</p>" +
+        "<p>This Privacy Policy explains how " + SITE + " (\"we\", \"us\") handles information when you use our website. By using the site, you agree to this policy.</p>" +
+        "<h2>1. Information we process</h2>" +
+        "<ul>" +
+        "<li><b>Files and text you use in tools:</b> Most tools run <b>entirely in your browser</b>. Files (PDFs, images, videos, audio) are processed locally on your device and are <b>not uploaded to us</b>. We never see or store them.</li>" +
+        "<li><b>Local storage:</b> Some tools save preferences and content <b>on your own device</b> (e.g. theme, the Notepad and To‑Do list). This never leaves your browser and you can clear it anytime.</li>" +
+        "<li><b>We run no accounts and no database.</b> We do not collect names, emails or passwords unless you email us directly.</li>" +
+        "</ul>" +
+        "<h2>2. Tools that use third‑party services</h2>" +
+        "<p>A small number of clearly‑labelled tools send data to external services to work:</p>" +
+        "<ul>" +
+        "<li><b>Grammar Checker</b> sends the text you enter to the LanguageTool API.</li>" +
+        "<li><b>Currency Converter</b> fetches exchange rates from a public rates API.</li>" +
+        "<li><b>AI Transcriber / Subtitles / Speech‑to‑Text</b> download an AI model from Hugging Face on first use; your audio is processed <b>in your browser</b>, not uploaded.</li>" +
+        "<li><b>Video tools</b> download an engine file the first time, then run locally.</li>" +
+        "</ul>" +
+        "<h2>3. Cookies and advertising</h2>" +
+        "<p>We may display ads through <b>Google AdSense</b>. Third‑party vendors, including Google, use cookies to serve ads based on your prior visits to this and other websites.</p>" +
+        "<ul>" +
+        "<li>Google's use of advertising cookies enables it and its partners to serve ads to you based on your visits. You can opt out of personalised advertising at <a href='https://www.google.com/settings/ads' target='_blank' rel='noopener'>Google Ads Settings</a>.</li>" +
+        "<li>Learn how Google uses data at <a href='https://policies.google.com/technologies/partner-sites' target='_blank' rel='noopener'>policies.google.com/technologies/partner-sites</a>.</li>" +
+        "<li>You can also opt out of third‑party vendor cookies at <a href='https://www.aboutads.info' target='_blank' rel='noopener'>aboutads.info</a>.</li>" +
+        "</ul>" +
+        "<h2>4. Your rights (GDPR / CCPA)</h2>" +
+        "<p>Because we do not collect personal data on our own servers, there is little for us to hold. For ad‑related data, use the Google and vendor opt‑out links above. EU/UK users have rights to access, rectify and erase personal data; California users may opt out of the \"sale\" of personal information (we do not sell personal information).</p>" +
+        "<h2>5. Children</h2>" +
+        "<p>This site is not directed to children under 13 (or the minimum age in your country), and we do not knowingly collect their data.</p>" +
+        "<h2>6. Changes & contact</h2>" +
+        "<p>We may update this policy; changes appear on this page with a new date. Questions? Email <a href='mailto:" + EMAIL + "'>" + EMAIL + "</a>.</p>",
+
+      terms:
+        "<h1>Terms of Service</h1>" +
+        "<p class='hint'>Last updated: " + UPDATED + "</p>" +
+        "<p>By accessing or using " + SITE + " (the \"Service\"), you agree to these Terms. If you do not agree, please do not use the Service.</p>" +
+        "<h2>1. Use of the Service</h2>" +
+        "<p>The Service provides free online utilities for your personal and commercial use. You agree not to misuse it, including attempting to disrupt it, reverse‑engineer it for malicious purposes, or use it for anything unlawful.</p>" +
+        "<h2>2. No warranty</h2>" +
+        "<p>The Service is provided <b>\"as is\" and \"as available\"</b> without warranties of any kind, express or implied, including accuracy, fitness for a particular purpose, or uninterrupted availability. You use the tools and their output at your own risk.</p>" +
+        "<h2>3. Limitation of liability</h2>" +
+        "<p>To the maximum extent permitted by law, " + OWNER + " shall not be liable for any indirect, incidental, or consequential damages, or any loss of data, profits, or goodwill, arising from your use of (or inability to use) the Service.</p>" +
+        "<h2>4. Intellectual property</h2>" +
+        "<p>The site's design and code are owned by " + OWNER + ". Third‑party open‑source libraries remain under their respective licences. Content you process with the tools remains yours.</p>" +
+        "<h2>5. Third‑party services & ads</h2>" +
+        "<p>The Service may link to or rely on third‑party services and display third‑party ads. We are not responsible for their content, policies, or practices.</p>" +
+        "<h2>6. Changes & governing law</h2>" +
+        "<p>We may update these Terms at any time. Continued use means you accept the changes. These Terms are governed by the laws of [Your Country/State]. Contact: <a href='mailto:" + EMAIL + "'>" + EMAIL + "</a>.</p>",
+
+      disclaimer:
+        "<h1>Disclaimer</h1>" +
+        "<p class='hint'>Last updated: " + UPDATED + "</p>" +
+        "<p>All tools and information on " + SITE + " are provided for <b>general informational purposes only</b>. While we aim for accuracy, we make no guarantees and accept no liability for decisions made based on the results.</p>" +
+        "<h2>Health &amp; fitness tools</h2>" +
+        "<p>Calculators such as BMI, BMR, TDEE, calories, body fat and heart‑rate zones are <b>estimates for general guidance only and are not medical advice</b>. Consult a qualified healthcare professional before making health, diet or exercise decisions.</p>" +
+        "<h2>Financial tools</h2>" +
+        "<p>Calculators such as loan, mortgage, interest, tax, ROI and salary are <b>estimates and not financial, tax or legal advice</b>. Consult a licensed professional before making financial decisions.</p>" +
+        "<h2>Accuracy</h2>" +
+        "<p>Results depend on the values you enter and the limits of in‑browser processing. Always verify important results independently. Use of the tools is entirely at your own risk.</p>"
     };
-    app.innerHTML = `<div class="static-page">${pages[page] || "<h1>Not found</h1>"}</div>`;
+    var body = pages[page];
+    if (!body) body = "<h1>Page not found</h1><p><a href='#/'>Return home</a></p>";
+    app.innerHTML = "<div class='static-page'>" + body + "</div>";
     window.scrollTo(0, 0);
   }
 

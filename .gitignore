@@ -1,7 +1,6 @@
-# Never commit secrets or local junk
-*.env
-my-keys.env
+# OS / editor junk
 .DS_Store
 Thumbs.db
-node_modules/
+desktop.ini
 *.log
+.vscode/
