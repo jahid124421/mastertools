@@ -147,9 +147,9 @@
   function renderStatic(page) {
     // NOTE: replace the [BRACKETED] placeholders with your real details before launch.
     const SITE = "MasterTools";
-    const EMAIL = "[your-email@example.com]";
-    const OWNER = "[Your Name or Company]";
-    const UPDATED = "[Month DD, YYYY]";
+    const EMAIL = "mamunini124@gmail.com";
+    const OWNER = "Somar";
+    const UPDATED = "July 12, 2026";
     const pages = {
       about:
         "<h1>About " + SITE + "</h1>" +
@@ -211,7 +211,7 @@
         "<h2>5. Third‑party services & ads</h2>" +
         "<p>The Service may link to or rely on third‑party services and display third‑party ads. We are not responsible for their content, policies, or practices.</p>" +
         "<h2>6. Changes & governing law</h2>" +
-        "<p>We may update these Terms at any time. Continued use means you accept the changes. These Terms are governed by the laws of [Your Country/State]. Contact: <a href='mailto:" + EMAIL + "'>" + EMAIL + "</a>.</p>",
+        "<p>We may update these Terms at any time. Continued use means you accept the changes. These Terms are governed by the laws of Bangladesh. Contact: <a href='mailto:" + EMAIL + "'>" + EMAIL + "</a>.</p>",
 
       disclaimer:
         "<h1>Disclaimer</h1>" +
