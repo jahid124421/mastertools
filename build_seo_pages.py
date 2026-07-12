@@ -91,6 +91,21 @@ def faq(t, typ):
 
 def esc(s): return html.escape(str(s), quote=True)
 
+def consent_html(up):
+    return ('<div id="cookieBanner" style="display:none;position:fixed;left:12px;right:12px;bottom:12px;z-index:9999;'
+            'gap:12px;align-items:center;justify-content:center;flex-wrap:wrap;background:rgba(11,16,32,.97);'
+            'border:1px solid rgba(255,255,255,.18);border-radius:14px;padding:14px 16px;box-shadow:0 10px 40px rgba(0,0,0,.5);'
+            'font-size:14px;color:#dbe6ff">'
+            '<span>🍪 We use cookies for basic functionality and, when enabled, ads &amp; analytics. '
+            f'By continuing you agree to our <a href="{up}#/page/privacy" style="color:#22d3ee">Privacy Policy</a>.</span>'
+            '<span style="display:flex;gap:8px"><button id="cookieOk" class="btn small" style="padding:8px 16px">Accept</button>'
+            '<button id="cookieNo" class="btn small secondary" style="padding:8px 16px">Decline</button></span></div>'
+            "<script>(function(){var b=document.getElementById('cookieBanner');if(!b)return;"
+            "if(!localStorage.getItem('mt-consent'))b.style.display='flex';"
+            "function c(v){localStorage.setItem('mt-consent',v);b.style.display='none';}"
+            "var o=document.getElementById('cookieOk'),n=document.getElementById('cookieNo');"
+            "if(o)o.onclick=function(){c('accepted');};if(n)n.onclick=function(){c('declined');};})();</script>")
+
 FONTS = ('<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/'
          'css2?family=Orbitron:wght@500;700;900&family=Rajdhani:wght@400;500;600;700&display=swap" rel="stylesheet">')
 ICON = ('<link rel="icon" href="data:image/svg+xml,'
@@ -187,6 +202,7 @@ def page(t, up):
   </nav>
   <div class="footer-copy">© <span>2026</span> MASTERTOOLS</div>
 </div></footer>
+{consent_html(up)}
 </body></html>"""
 
 tools_dir = HERE / "tools"
@@ -214,7 +230,7 @@ for c in categories:
 {cards}</main>
 <footer class="footer"><div class="footer-inner"><div><strong>MasterTools</strong></div>
 <nav class="footer-links"><a href="../">Home</a><a href="../#/page/about">About</a><a href="../#/page/privacy">Privacy</a><a href="../#/page/terms">Terms</a></nav>
-<div class="footer-copy">© 2026 MASTERTOOLS</div></div></footer></body></html>""", encoding="utf-8")
+<div class="footer-copy">© 2026 MASTERTOOLS</div></div></footer>""" + consent_html("../") + """</body></html>""", encoding="utf-8")
 
 # sitemap
 urls = [f"{SITE}/", f"{SITE}/tools/"] + [f"{SITE}/tools/{t['id']}/" for t in ALL]

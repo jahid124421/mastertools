@@ -11,8 +11,8 @@
   (function cookieConsent() {
     const banner = document.getElementById("cookieBanner");
     if (!banner) return;
-    if (!localStorage.getItem("mt-consent")) banner.hidden = false;
-    const close = (choice) => { localStorage.setItem("mt-consent", choice); banner.hidden = true; };
+    if (!localStorage.getItem("mt-consent")) banner.style.display = "flex";
+    const close = (choice) => { localStorage.setItem("mt-consent", choice); banner.style.display = "none"; };
     const ok = document.getElementById("cookieOk"), no = document.getElementById("cookieNo");
     if (ok) ok.addEventListener("click", () => close("accepted"));
     if (no) no.addEventListener("click", () => close("declined"));
