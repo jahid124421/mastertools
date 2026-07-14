@@ -847,3 +847,14 @@ NameError: name 'time' is not defined. Did you forget to import 'time'
 [2026-07-14 12:18:27] [think] completed (1109 chars)
 [2026-07-14 12:18:34] [multitask] completed (753 chars)
 [2026-07-14 12:18:40] [automate] completed (753 chars)
+[2026-07-14 12:19:06] TEAM request (model=auto, stream=True)
+[2026-07-14 12:19:12] TEAM running roles: ['think', 'multitask', 'automate']
+[2026-07-14 12:19:19] [think] completed (119 chars)
+[2026-07-14 12:19:28] [multitask] completed (1049 chars)
+[2026-07-14 12:19:35] [automate] completed (119 chars)
+[2026-07-14 12:19:40] TEAM request (model=auto, stream=True)
+[2026-07-14 12:19:47] [planner] JSON parse failed: Expecting ',' delimiter: line 26 column 6 (char 968) -> fallback plan
+[2026-07-14 12:19:47] TEAM running roles: ['think', 'multitask', 'automate']
+[2026-07-14 12:19:55] [think] completed (1040 chars)
+[2026-07-14 12:20:03] [multitask] completed (119 chars)
+[2026-07-14 12:20:11] [automate] completed (182 chars)
