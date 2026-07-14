@@ -9,7 +9,7 @@ from pathlib import Path
 
 HERE = Path(__file__).parent
 DATA = (HERE / "js" / "tools-data.js").read_text(encoding="utf-8")
-SITE = "https://mastertools-501.pages.dev"   # primary URL; change when you get a custom domain
+SITE = "https://toolstack.dpdns.org"   # primary URL; change when you get a custom domain
 BRAND = "Somar's All Free Tools"
 
 cat_re = re.compile(

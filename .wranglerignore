@@ -1,0 +1,8 @@
+# Exclude large ffmpeg wasm files that exceed Cloudflare Pages 25MB limit
+vendor/ffmpeg/
+**/ffmpeg-core.wasm
+**/ffmpeg-core.js
+
+# Also exclude any copies in parent/sibling directories
+../phonehub/mastertools/vendor/ffmpeg/
+../../phonehub/mastertools/vendor/ffmpeg/

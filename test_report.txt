@@ -1,0 +1,2469 @@
+Tool Testing Report
+Generated: 1783926699.6210282
+Total tools: 207
+Passed: 0
+Failed: 207
+
+Issues:
+
+add-line-numbers:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+
+add-subtract-days:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/countdown-timer/
+  - Potential broken link: ../../tools/days-until/
+  - Potential broken link: ../../tools/week-number/
+  - Potential broken link: ../../tools/timezone-converter/
+  - Potential broken link: ../../tools/stopwatch/
+  - Potential broken link: ../../tools/pomodoro/
+  - Potential broken link: ../../tools/work-hours/
+  - Potential broken link: ../../tools/birthday-countdown/
+
+aes-encrypt:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/caesar-cipher/
+  - Potential broken link: ../../tools/rot13/
+  - Potential broken link: ../../tools/md5-generator/
+  - Potential broken link: ../../tools/bcrypt-generator/
+  - Potential broken link: ../../tools/htpasswd/
+  - Potential broken link: ../../tools/ssl-checker/
+
+age-calc:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/percentage-calc/
+  - Potential broken link: ../../tools/percentage-change/
+  - Potential broken link: ../../tools/loan-calc/
+  - Potential broken link: ../../tools/mortgage-calc/
+  - Potential broken link: ../../tools/compound-interest/
+  - Potential broken link: ../../tools/roi-calc/
+  - Potential broken link: ../../tools/salary-calc/
+  - Potential broken link: ../../tools/sales-tax/
+
+ai-detector:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+
+api-key-generator:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/password-generator/
+  - Potential broken link: ../../tools/qr-generator/
+  - Potential broken link: ../../tools/barcode-generator/
+  - Potential broken link: ../../tools/uuid-generator/
+  - Potential broken link: ../../tools/random-number/
+  - Potential broken link: ../../tools/random-string/
+  - Potential broken link: ../../tools/random-name/
+  - Potential broken link: ../../tools/pin-generator/
+
+average-calc:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/percentage-calc/
+  - Potential broken link: ../../tools/percentage-change/
+  - Potential broken link: ../../tools/loan-calc/
+  - Potential broken link: ../../tools/mortgage-calc/
+  - Potential broken link: ../../tools/compound-interest/
+  - Potential broken link: ../../tools/roi-calc/
+  - Potential broken link: ../../tools/salary-calc/
+  - Potential broken link: ../../tools/sales-tax/
+
+background-remover:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/image-compressor/
+  - Potential broken link: ../../tools/image-resizer/
+  - Potential broken link: ../../tools/image-converter/
+  - Potential broken link: ../../tools/image-to-base64/
+  - Potential broken link: ../../tools/base64-to-image/
+  - Potential broken link: ../../tools/image-crop/
+  - Potential broken link: ../../tools/rotate-image/
+  - Potential broken link: ../../tools/circle-crop/
+
+backlink-checker:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/meta-generator/
+  - Potential broken link: ../../tools/keyword-density/
+  - Potential broken link: ../../tools/robots-generator/
+  - Potential broken link: ../../tools/utm-builder/
+  - Potential broken link: ../../tools/serp-preview/
+  - Potential broken link: ../../tools/og-generator/
+  - Potential broken link: ../../tools/twitter-card/
+  - Potential broken link: ../../tools/htaccess-redirect/
+
+barcode-generator:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/password-generator/
+  - Potential broken link: ../../tools/qr-generator/
+  - Potential broken link: ../../tools/uuid-generator/
+  - Potential broken link: ../../tools/random-number/
+  - Potential broken link: ../../tools/random-string/
+  - Potential broken link: ../../tools/random-name/
+  - Potential broken link: ../../tools/pin-generator/
+  - Potential broken link: ../../tools/api-key-generator/
+
+base-n-log:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/prime-checker/
+  - Potential broken link: ../../tools/factorial-calc/
+  - Potential broken link: ../../tools/gcd-lcm/
+  - Potential broken link: ../../tools/quadratic-solver/
+  - Potential broken link: ../../tools/standard-deviation/
+  - Potential broken link: ../../tools/rounding-calc/
+  - Potential broken link: ../../tools/fraction-calc/
+  - Potential broken link: ../../tools/ratio-calc/
+
+base64:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/url-encode/
+  - Potential broken link: ../../tools/html-encode/
+  - Potential broken link: ../../tools/json-formatter/
+  - Potential broken link: ../../tools/json-to-csv/
+  - Potential broken link: ../../tools/csv-to-json/
+  - Potential broken link: ../../tools/json-to-xml/
+  - Potential broken link: ../../tools/json-to-yaml/
+  - Potential broken link: ../../tools/number-base/
+
+base64-to-image:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/image-compressor/
+  - Potential broken link: ../../tools/image-resizer/
+  - Potential broken link: ../../tools/image-converter/
+  - Potential broken link: ../../tools/image-to-base64/
+  - Potential broken link: ../../tools/image-crop/
+  - Potential broken link: ../../tools/rotate-image/
+  - Potential broken link: ../../tools/circle-crop/
+  - Potential broken link: ../../tools/pixelate-image/
+
+bcrypt-generator:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/aes-encrypt/
+  - Potential broken link: ../../tools/caesar-cipher/
+  - Potential broken link: ../../tools/rot13/
+  - Potential broken link: ../../tools/md5-generator/
+  - Potential broken link: ../../tools/htpasswd/
+  - Potential broken link: ../../tools/ssl-checker/
+
+binary-to-text:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+
+birthday-countdown:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/countdown-timer/
+  - Potential broken link: ../../tools/days-until/
+  - Potential broken link: ../../tools/add-subtract-days/
+  - Potential broken link: ../../tools/week-number/
+  - Potential broken link: ../../tools/timezone-converter/
+  - Potential broken link: ../../tools/stopwatch/
+  - Potential broken link: ../../tools/pomodoro/
+  - Potential broken link: ../../tools/work-hours/
+
+bmi-calc:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/bmr-calc/
+  - Potential broken link: ../../tools/tdee-calc/
+  - Potential broken link: ../../tools/calorie-calc/
+  - Potential broken link: ../../tools/macro-calc/
+  - Potential broken link: ../../tools/body-fat/
+  - Potential broken link: ../../tools/ideal-weight/
+  - Potential broken link: ../../tools/water-intake/
+  - Potential broken link: ../../tools/one-rep-max/
+
+bmr-calc:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/bmi-calc/
+  - Potential broken link: ../../tools/tdee-calc/
+  - Potential broken link: ../../tools/calorie-calc/
+  - Potential broken link: ../../tools/macro-calc/
+  - Potential broken link: ../../tools/body-fat/
+  - Potential broken link: ../../tools/ideal-weight/
+  - Potential broken link: ../../tools/water-intake/
+  - Potential broken link: ../../tools/one-rep-max/
+
+body-fat:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/bmi-calc/
+  - Potential broken link: ../../tools/bmr-calc/
+  - Potential broken link: ../../tools/tdee-calc/
+  - Potential broken link: ../../tools/calorie-calc/
+  - Potential broken link: ../../tools/macro-calc/
+  - Potential broken link: ../../tools/ideal-weight/
+  - Potential broken link: ../../tools/water-intake/
+  - Potential broken link: ../../tools/one-rep-max/
+
+border-radius:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/color-picker/
+  - Potential broken link: ../../tools/gradient-generator/
+  - Potential broken link: ../../tools/contrast-checker/
+  - Potential broken link: ../../tools/palette-generator/
+  - Potential broken link: ../../tools/shadow-generator/
+  - Potential broken link: ../../tools/css-triangle/
+  - Potential broken link: ../../tools/color-blindness/
+
+browser-info:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/notepad/
+  - Potential broken link: ../../tools/todo-list/
+  - Potential broken link: ../../tools/wheel-picker/
+  - Potential broken link: ../../tools/name-picker/
+  - Potential broken link: ../../tools/dice-roller/
+  - Potential broken link: ../../tools/coin-flip/
+  - Potential broken link: ../../tools/tally-counter/
+  - Potential broken link: ../../tools/whats-my-ip/
+
+business-name:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/password-generator/
+  - Potential broken link: ../../tools/qr-generator/
+  - Potential broken link: ../../tools/barcode-generator/
+  - Potential broken link: ../../tools/uuid-generator/
+  - Potential broken link: ../../tools/random-number/
+  - Potential broken link: ../../tools/random-string/
+  - Potential broken link: ../../tools/random-name/
+  - Potential broken link: ../../tools/pin-generator/
+
+caesar-cipher:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/aes-encrypt/
+  - Potential broken link: ../../tools/rot13/
+  - Potential broken link: ../../tools/md5-generator/
+  - Potential broken link: ../../tools/bcrypt-generator/
+  - Potential broken link: ../../tools/htpasswd/
+  - Potential broken link: ../../tools/ssl-checker/
+
+calorie-calc:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/bmi-calc/
+  - Potential broken link: ../../tools/bmr-calc/
+  - Potential broken link: ../../tools/tdee-calc/
+  - Potential broken link: ../../tools/macro-calc/
+  - Potential broken link: ../../tools/body-fat/
+  - Potential broken link: ../../tools/ideal-weight/
+  - Potential broken link: ../../tools/water-intake/
+  - Potential broken link: ../../tools/one-rep-max/
+
+case-converter:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+  - Potential broken link: ../../tools/remove-line-breaks/
+
+circle-crop:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/image-compressor/
+  - Potential broken link: ../../tools/image-resizer/
+  - Potential broken link: ../../tools/image-converter/
+  - Potential broken link: ../../tools/image-to-base64/
+  - Potential broken link: ../../tools/base64-to-image/
+  - Potential broken link: ../../tools/image-crop/
+  - Potential broken link: ../../tools/rotate-image/
+  - Potential broken link: ../../tools/pixelate-image/
+
+clip-maker:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/reel-transcriber/
+  - Potential broken link: ../../tools/video-downloader/
+  - Potential broken link: ../../tools/thumbnail-downloader/
+  - Potential broken link: ../../tools/video-to-mp3/
+  - Potential broken link: ../../tools/subtitle-generator/
+  - Potential broken link: ../../tools/video-compressor/
+  - Potential broken link: ../../tools/twitter-char-counter/
+  - Potential broken link: ../../tools/engagement-rate/
+
+coin-flip:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/notepad/
+  - Potential broken link: ../../tools/todo-list/
+  - Potential broken link: ../../tools/wheel-picker/
+  - Potential broken link: ../../tools/name-picker/
+  - Potential broken link: ../../tools/dice-roller/
+  - Potential broken link: ../../tools/tally-counter/
+  - Potential broken link: ../../tools/whats-my-ip/
+  - Potential broken link: ../../tools/browser-info/
+
+collage-maker:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/image-compressor/
+  - Potential broken link: ../../tools/image-resizer/
+  - Potential broken link: ../../tools/image-converter/
+  - Potential broken link: ../../tools/image-to-base64/
+  - Potential broken link: ../../tools/base64-to-image/
+  - Potential broken link: ../../tools/image-crop/
+  - Potential broken link: ../../tools/rotate-image/
+  - Potential broken link: ../../tools/circle-crop/
+
+color-blindness:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/color-picker/
+  - Potential broken link: ../../tools/gradient-generator/
+  - Potential broken link: ../../tools/contrast-checker/
+  - Potential broken link: ../../tools/palette-generator/
+  - Potential broken link: ../../tools/shadow-generator/
+  - Potential broken link: ../../tools/border-radius/
+  - Potential broken link: ../../tools/css-triangle/
+
+color-code-dev:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/regex-tester/
+  - Potential broken link: ../../tools/markdown-preview/
+  - Potential broken link: ../../tools/jwt-decoder/
+  - Potential broken link: ../../tools/html-minify/
+  - Potential broken link: ../../tools/css-minify/
+  - Potential broken link: ../../tools/js-beautify/
+  - Potential broken link: ../../tools/sql-formatter/
+  - Potential broken link: ../../tools/cron-generator/
+
+color-converter:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/base64/
+  - Potential broken link: ../../tools/url-encode/
+  - Potential broken link: ../../tools/html-encode/
+  - Potential broken link: ../../tools/json-formatter/
+  - Potential broken link: ../../tools/json-to-csv/
+  - Potential broken link: ../../tools/csv-to-json/
+  - Potential broken link: ../../tools/json-to-xml/
+  - Potential broken link: ../../tools/json-to-yaml/
+
+color-from-image:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/image-compressor/
+  - Potential broken link: ../../tools/image-resizer/
+  - Potential broken link: ../../tools/image-converter/
+  - Potential broken link: ../../tools/image-to-base64/
+  - Potential broken link: ../../tools/base64-to-image/
+  - Potential broken link: ../../tools/image-crop/
+  - Potential broken link: ../../tools/rotate-image/
+  - Potential broken link: ../../tools/circle-crop/
+
+color-picker:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/gradient-generator/
+  - Potential broken link: ../../tools/contrast-checker/
+  - Potential broken link: ../../tools/palette-generator/
+  - Potential broken link: ../../tools/shadow-generator/
+  - Potential broken link: ../../tools/border-radius/
+  - Potential broken link: ../../tools/css-triangle/
+  - Potential broken link: ../../tools/color-blindness/
+
+compound-interest:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/percentage-calc/
+  - Potential broken link: ../../tools/percentage-change/
+  - Potential broken link: ../../tools/loan-calc/
+  - Potential broken link: ../../tools/mortgage-calc/
+  - Potential broken link: ../../tools/roi-calc/
+  - Potential broken link: ../../tools/salary-calc/
+  - Potential broken link: ../../tools/sales-tax/
+  - Potential broken link: ../../tools/markup-calc/
+
+compress-pdf:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/merge-pdf/
+  - Potential broken link: ../../tools/split-pdf/
+  - Potential broken link: ../../tools/pdf-to-jpg/
+  - Potential broken link: ../../tools/jpg-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-png/
+  - Potential broken link: ../../tools/png-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-word/
+  - Potential broken link: ../../tools/word-to-pdf/
+
+contrast-checker:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/color-picker/
+  - Potential broken link: ../../tools/gradient-generator/
+  - Potential broken link: ../../tools/palette-generator/
+  - Potential broken link: ../../tools/shadow-generator/
+  - Potential broken link: ../../tools/border-radius/
+  - Potential broken link: ../../tools/css-triangle/
+  - Potential broken link: ../../tools/color-blindness/
+
+count-letters:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+
+countdown-timer:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/days-until/
+  - Potential broken link: ../../tools/add-subtract-days/
+  - Potential broken link: ../../tools/week-number/
+  - Potential broken link: ../../tools/timezone-converter/
+  - Potential broken link: ../../tools/stopwatch/
+  - Potential broken link: ../../tools/pomodoro/
+  - Potential broken link: ../../tools/work-hours/
+  - Potential broken link: ../../tools/birthday-countdown/
+
+cron-generator:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/regex-tester/
+  - Potential broken link: ../../tools/markdown-preview/
+  - Potential broken link: ../../tools/jwt-decoder/
+  - Potential broken link: ../../tools/html-minify/
+  - Potential broken link: ../../tools/css-minify/
+  - Potential broken link: ../../tools/js-beautify/
+  - Potential broken link: ../../tools/sql-formatter/
+  - Potential broken link: ../../tools/text-to-slug/
+
+css-minify:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/regex-tester/
+  - Potential broken link: ../../tools/markdown-preview/
+  - Potential broken link: ../../tools/jwt-decoder/
+  - Potential broken link: ../../tools/html-minify/
+  - Potential broken link: ../../tools/js-beautify/
+  - Potential broken link: ../../tools/sql-formatter/
+  - Potential broken link: ../../tools/cron-generator/
+  - Potential broken link: ../../tools/text-to-slug/
+
+css-triangle:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/color-picker/
+  - Potential broken link: ../../tools/gradient-generator/
+  - Potential broken link: ../../tools/contrast-checker/
+  - Potential broken link: ../../tools/palette-generator/
+  - Potential broken link: ../../tools/shadow-generator/
+  - Potential broken link: ../../tools/border-radius/
+  - Potential broken link: ../../tools/color-blindness/
+
+csv-to-json:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/base64/
+  - Potential broken link: ../../tools/url-encode/
+  - Potential broken link: ../../tools/html-encode/
+  - Potential broken link: ../../tools/json-formatter/
+  - Potential broken link: ../../tools/json-to-csv/
+  - Potential broken link: ../../tools/json-to-xml/
+  - Potential broken link: ../../tools/json-to-yaml/
+  - Potential broken link: ../../tools/number-base/
+
+currency-converter:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/base64/
+  - Potential broken link: ../../tools/url-encode/
+  - Potential broken link: ../../tools/html-encode/
+  - Potential broken link: ../../tools/json-formatter/
+  - Potential broken link: ../../tools/json-to-csv/
+  - Potential broken link: ../../tools/csv-to-json/
+  - Potential broken link: ../../tools/json-to-xml/
+  - Potential broken link: ../../tools/json-to-yaml/
+
+date-diff:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/percentage-calc/
+  - Potential broken link: ../../tools/percentage-change/
+  - Potential broken link: ../../tools/loan-calc/
+  - Potential broken link: ../../tools/mortgage-calc/
+  - Potential broken link: ../../tools/compound-interest/
+  - Potential broken link: ../../tools/roi-calc/
+  - Potential broken link: ../../tools/salary-calc/
+  - Potential broken link: ../../tools/sales-tax/
+
+days-until:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/countdown-timer/
+  - Potential broken link: ../../tools/add-subtract-days/
+  - Potential broken link: ../../tools/week-number/
+  - Potential broken link: ../../tools/timezone-converter/
+  - Potential broken link: ../../tools/stopwatch/
+  - Potential broken link: ../../tools/pomodoro/
+  - Potential broken link: ../../tools/work-hours/
+  - Potential broken link: ../../tools/birthday-countdown/
+
+dice-roller:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/notepad/
+  - Potential broken link: ../../tools/todo-list/
+  - Potential broken link: ../../tools/wheel-picker/
+  - Potential broken link: ../../tools/name-picker/
+  - Potential broken link: ../../tools/coin-flip/
+  - Potential broken link: ../../tools/tally-counter/
+  - Potential broken link: ../../tools/whats-my-ip/
+  - Potential broken link: ../../tools/browser-info/
+
+diff-checker:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/regex-tester/
+  - Potential broken link: ../../tools/markdown-preview/
+  - Potential broken link: ../../tools/jwt-decoder/
+  - Potential broken link: ../../tools/html-minify/
+  - Potential broken link: ../../tools/css-minify/
+  - Potential broken link: ../../tools/js-beautify/
+  - Potential broken link: ../../tools/sql-formatter/
+  - Potential broken link: ../../tools/cron-generator/
+
+discount-calc:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/percentage-calc/
+  - Potential broken link: ../../tools/percentage-change/
+  - Potential broken link: ../../tools/loan-calc/
+  - Potential broken link: ../../tools/mortgage-calc/
+  - Potential broken link: ../../tools/compound-interest/
+  - Potential broken link: ../../tools/roi-calc/
+  - Potential broken link: ../../tools/salary-calc/
+  - Potential broken link: ../../tools/sales-tax/
+
+engagement-rate:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/reel-transcriber/
+  - Potential broken link: ../../tools/video-downloader/
+  - Potential broken link: ../../tools/thumbnail-downloader/
+  - Potential broken link: ../../tools/video-to-mp3/
+  - Potential broken link: ../../tools/subtitle-generator/
+  - Potential broken link: ../../tools/clip-maker/
+  - Potential broken link: ../../tools/video-compressor/
+  - Potential broken link: ../../tools/twitter-char-counter/
+
+escape-string:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/regex-tester/
+  - Potential broken link: ../../tools/markdown-preview/
+  - Potential broken link: ../../tools/jwt-decoder/
+  - Potential broken link: ../../tools/html-minify/
+  - Potential broken link: ../../tools/css-minify/
+  - Potential broken link: ../../tools/js-beautify/
+  - Potential broken link: ../../tools/sql-formatter/
+  - Potential broken link: ../../tools/cron-generator/
+
+esign-pdf:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/compress-pdf/
+  - Potential broken link: ../../tools/merge-pdf/
+  - Potential broken link: ../../tools/split-pdf/
+  - Potential broken link: ../../tools/pdf-to-jpg/
+  - Potential broken link: ../../tools/jpg-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-png/
+  - Potential broken link: ../../tools/png-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-word/
+
+excel-to-pdf:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/compress-pdf/
+  - Potential broken link: ../../tools/merge-pdf/
+  - Potential broken link: ../../tools/split-pdf/
+  - Potential broken link: ../../tools/pdf-to-jpg/
+  - Potential broken link: ../../tools/jpg-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-png/
+  - Potential broken link: ../../tools/png-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-word/
+
+exif-viewer:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/image-compressor/
+  - Potential broken link: ../../tools/image-resizer/
+  - Potential broken link: ../../tools/image-converter/
+  - Potential broken link: ../../tools/image-to-base64/
+  - Potential broken link: ../../tools/base64-to-image/
+  - Potential broken link: ../../tools/image-crop/
+  - Potential broken link: ../../tools/rotate-image/
+  - Potential broken link: ../../tools/circle-crop/
+
+factorial-calc:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/prime-checker/
+  - Potential broken link: ../../tools/gcd-lcm/
+  - Potential broken link: ../../tools/quadratic-solver/
+  - Potential broken link: ../../tools/standard-deviation/
+  - Potential broken link: ../../tools/rounding-calc/
+  - Potential broken link: ../../tools/fraction-calc/
+  - Potential broken link: ../../tools/ratio-calc/
+  - Potential broken link: ../../tools/random-picker-num/
+
+fake-credit-card:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/password-generator/
+  - Potential broken link: ../../tools/qr-generator/
+  - Potential broken link: ../../tools/barcode-generator/
+  - Potential broken link: ../../tools/uuid-generator/
+  - Potential broken link: ../../tools/random-number/
+  - Potential broken link: ../../tools/random-string/
+  - Potential broken link: ../../tools/random-name/
+  - Potential broken link: ../../tools/pin-generator/
+
+fake-tweet:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/reel-transcriber/
+  - Potential broken link: ../../tools/video-downloader/
+  - Potential broken link: ../../tools/thumbnail-downloader/
+  - Potential broken link: ../../tools/video-to-mp3/
+  - Potential broken link: ../../tools/subtitle-generator/
+  - Potential broken link: ../../tools/clip-maker/
+  - Potential broken link: ../../tools/video-compressor/
+  - Potential broken link: ../../tools/twitter-char-counter/
+
+fancy-text:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/password-generator/
+  - Potential broken link: ../../tools/qr-generator/
+  - Potential broken link: ../../tools/barcode-generator/
+  - Potential broken link: ../../tools/uuid-generator/
+  - Potential broken link: ../../tools/random-number/
+  - Potential broken link: ../../tools/random-string/
+  - Potential broken link: ../../tools/random-name/
+  - Potential broken link: ../../tools/pin-generator/
+
+favicon-generator:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/image-compressor/
+  - Potential broken link: ../../tools/image-resizer/
+  - Potential broken link: ../../tools/image-converter/
+  - Potential broken link: ../../tools/image-to-base64/
+  - Potential broken link: ../../tools/base64-to-image/
+  - Potential broken link: ../../tools/image-crop/
+  - Potential broken link: ../../tools/rotate-image/
+  - Potential broken link: ../../tools/circle-crop/
+
+find-replace:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+  - Potential broken link: ../../tools/remove-line-breaks/
+
+fraction-calc:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/prime-checker/
+  - Potential broken link: ../../tools/factorial-calc/
+  - Potential broken link: ../../tools/gcd-lcm/
+  - Potential broken link: ../../tools/quadratic-solver/
+  - Potential broken link: ../../tools/standard-deviation/
+  - Potential broken link: ../../tools/rounding-calc/
+  - Potential broken link: ../../tools/ratio-calc/
+  - Potential broken link: ../../tools/random-picker-num/
+
+fuel-cost:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/percentage-calc/
+  - Potential broken link: ../../tools/percentage-change/
+  - Potential broken link: ../../tools/loan-calc/
+  - Potential broken link: ../../tools/mortgage-calc/
+  - Potential broken link: ../../tools/compound-interest/
+  - Potential broken link: ../../tools/roi-calc/
+  - Potential broken link: ../../tools/salary-calc/
+  - Potential broken link: ../../tools/sales-tax/
+
+gcd-lcm:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/prime-checker/
+  - Potential broken link: ../../tools/factorial-calc/
+  - Potential broken link: ../../tools/quadratic-solver/
+  - Potential broken link: ../../tools/standard-deviation/
+  - Potential broken link: ../../tools/rounding-calc/
+  - Potential broken link: ../../tools/fraction-calc/
+  - Potential broken link: ../../tools/ratio-calc/
+  - Potential broken link: ../../tools/random-picker-num/
+
+gpa-calc:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/percentage-calc/
+  - Potential broken link: ../../tools/percentage-change/
+  - Potential broken link: ../../tools/loan-calc/
+  - Potential broken link: ../../tools/mortgage-calc/
+  - Potential broken link: ../../tools/compound-interest/
+  - Potential broken link: ../../tools/roi-calc/
+  - Potential broken link: ../../tools/salary-calc/
+  - Potential broken link: ../../tools/sales-tax/
+
+gradient-generator:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/color-picker/
+  - Potential broken link: ../../tools/contrast-checker/
+  - Potential broken link: ../../tools/palette-generator/
+  - Potential broken link: ../../tools/shadow-generator/
+  - Potential broken link: ../../tools/border-radius/
+  - Potential broken link: ../../tools/css-triangle/
+  - Potential broken link: ../../tools/color-blindness/
+
+grammar-checker:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+
+hash-generator:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/password-generator/
+  - Potential broken link: ../../tools/qr-generator/
+  - Potential broken link: ../../tools/barcode-generator/
+  - Potential broken link: ../../tools/uuid-generator/
+  - Potential broken link: ../../tools/random-number/
+  - Potential broken link: ../../tools/random-string/
+  - Potential broken link: ../../tools/random-name/
+  - Potential broken link: ../../tools/pin-generator/
+
+hashtag-generator:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/reel-transcriber/
+  - Potential broken link: ../../tools/video-downloader/
+  - Potential broken link: ../../tools/thumbnail-downloader/
+  - Potential broken link: ../../tools/video-to-mp3/
+  - Potential broken link: ../../tools/subtitle-generator/
+  - Potential broken link: ../../tools/clip-maker/
+  - Potential broken link: ../../tools/video-compressor/
+  - Potential broken link: ../../tools/twitter-char-counter/
+
+heart-rate-zone:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/bmi-calc/
+  - Potential broken link: ../../tools/bmr-calc/
+  - Potential broken link: ../../tools/tdee-calc/
+  - Potential broken link: ../../tools/calorie-calc/
+  - Potential broken link: ../../tools/macro-calc/
+  - Potential broken link: ../../tools/body-fat/
+  - Potential broken link: ../../tools/ideal-weight/
+  - Potential broken link: ../../tools/water-intake/
+
+htaccess-redirect:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/meta-generator/
+  - Potential broken link: ../../tools/keyword-density/
+  - Potential broken link: ../../tools/robots-generator/
+  - Potential broken link: ../../tools/utm-builder/
+  - Potential broken link: ../../tools/serp-preview/
+  - Potential broken link: ../../tools/og-generator/
+  - Potential broken link: ../../tools/twitter-card/
+  - Potential broken link: ../../tools/backlink-checker/
+
+html-encode:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/base64/
+  - Potential broken link: ../../tools/url-encode/
+  - Potential broken link: ../../tools/json-formatter/
+  - Potential broken link: ../../tools/json-to-csv/
+  - Potential broken link: ../../tools/csv-to-json/
+  - Potential broken link: ../../tools/json-to-xml/
+  - Potential broken link: ../../tools/json-to-yaml/
+  - Potential broken link: ../../tools/number-base/
+
+html-minify:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/regex-tester/
+  - Potential broken link: ../../tools/markdown-preview/
+  - Potential broken link: ../../tools/jwt-decoder/
+  - Potential broken link: ../../tools/css-minify/
+  - Potential broken link: ../../tools/js-beautify/
+  - Potential broken link: ../../tools/sql-formatter/
+  - Potential broken link: ../../tools/cron-generator/
+  - Potential broken link: ../../tools/text-to-slug/
+
+htpasswd:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/aes-encrypt/
+  - Potential broken link: ../../tools/caesar-cipher/
+  - Potential broken link: ../../tools/rot13/
+  - Potential broken link: ../../tools/md5-generator/
+  - Potential broken link: ../../tools/bcrypt-generator/
+  - Potential broken link: ../../tools/ssl-checker/
+
+http-status:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/regex-tester/
+  - Potential broken link: ../../tools/markdown-preview/
+  - Potential broken link: ../../tools/jwt-decoder/
+  - Potential broken link: ../../tools/html-minify/
+  - Potential broken link: ../../tools/css-minify/
+  - Potential broken link: ../../tools/js-beautify/
+  - Potential broken link: ../../tools/sql-formatter/
+  - Potential broken link: ../../tools/cron-generator/
+
+ideal-weight:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/bmi-calc/
+  - Potential broken link: ../../tools/bmr-calc/
+  - Potential broken link: ../../tools/tdee-calc/
+  - Potential broken link: ../../tools/calorie-calc/
+  - Potential broken link: ../../tools/macro-calc/
+  - Potential broken link: ../../tools/body-fat/
+  - Potential broken link: ../../tools/water-intake/
+  - Potential broken link: ../../tools/one-rep-max/
+
+image-compressor:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/image-resizer/
+  - Potential broken link: ../../tools/image-converter/
+  - Potential broken link: ../../tools/image-to-base64/
+  - Potential broken link: ../../tools/base64-to-image/
+  - Potential broken link: ../../tools/image-crop/
+  - Potential broken link: ../../tools/rotate-image/
+  - Potential broken link: ../../tools/circle-crop/
+  - Potential broken link: ../../tools/pixelate-image/
+
+image-converter:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/image-compressor/
+  - Potential broken link: ../../tools/image-resizer/
+  - Potential broken link: ../../tools/image-to-base64/
+  - Potential broken link: ../../tools/base64-to-image/
+  - Potential broken link: ../../tools/image-crop/
+  - Potential broken link: ../../tools/rotate-image/
+  - Potential broken link: ../../tools/circle-crop/
+  - Potential broken link: ../../tools/pixelate-image/
+
+image-crop:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/image-compressor/
+  - Potential broken link: ../../tools/image-resizer/
+  - Potential broken link: ../../tools/image-converter/
+  - Potential broken link: ../../tools/image-to-base64/
+  - Potential broken link: ../../tools/base64-to-image/
+  - Potential broken link: ../../tools/rotate-image/
+  - Potential broken link: ../../tools/circle-crop/
+  - Potential broken link: ../../tools/pixelate-image/
+
+image-resizer:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/image-compressor/
+  - Potential broken link: ../../tools/image-converter/
+  - Potential broken link: ../../tools/image-to-base64/
+  - Potential broken link: ../../tools/base64-to-image/
+  - Potential broken link: ../../tools/image-crop/
+  - Potential broken link: ../../tools/rotate-image/
+  - Potential broken link: ../../tools/circle-crop/
+  - Potential broken link: ../../tools/pixelate-image/
+
+image-to-base64:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/image-compressor/
+  - Potential broken link: ../../tools/image-resizer/
+  - Potential broken link: ../../tools/image-converter/
+  - Potential broken link: ../../tools/base64-to-image/
+  - Potential broken link: ../../tools/image-crop/
+  - Potential broken link: ../../tools/rotate-image/
+  - Potential broken link: ../../tools/circle-crop/
+  - Potential broken link: ../../tools/pixelate-image/
+
+image-upscaler:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/image-compressor/
+  - Potential broken link: ../../tools/image-resizer/
+  - Potential broken link: ../../tools/image-converter/
+  - Potential broken link: ../../tools/image-to-base64/
+  - Potential broken link: ../../tools/base64-to-image/
+  - Potential broken link: ../../tools/image-crop/
+  - Potential broken link: ../../tools/rotate-image/
+  - Potential broken link: ../../tools/circle-crop/
+
+image-watermark:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/image-compressor/
+  - Potential broken link: ../../tools/image-resizer/
+  - Potential broken link: ../../tools/image-converter/
+  - Potential broken link: ../../tools/image-to-base64/
+  - Potential broken link: ../../tools/base64-to-image/
+  - Potential broken link: ../../tools/image-crop/
+  - Potential broken link: ../../tools/rotate-image/
+  - Potential broken link: ../../tools/circle-crop/
+
+internet-speed:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/notepad/
+  - Potential broken link: ../../tools/todo-list/
+  - Potential broken link: ../../tools/wheel-picker/
+  - Potential broken link: ../../tools/name-picker/
+  - Potential broken link: ../../tools/dice-roller/
+  - Potential broken link: ../../tools/coin-flip/
+  - Potential broken link: ../../tools/tally-counter/
+  - Potential broken link: ../../tools/whats-my-ip/
+
+invoice-generator:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/password-generator/
+  - Potential broken link: ../../tools/qr-generator/
+  - Potential broken link: ../../tools/barcode-generator/
+  - Potential broken link: ../../tools/uuid-generator/
+  - Potential broken link: ../../tools/random-number/
+  - Potential broken link: ../../tools/random-string/
+  - Potential broken link: ../../tools/random-name/
+  - Potential broken link: ../../tools/pin-generator/
+
+jpg-to-pdf:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/compress-pdf/
+  - Potential broken link: ../../tools/merge-pdf/
+  - Potential broken link: ../../tools/split-pdf/
+  - Potential broken link: ../../tools/pdf-to-jpg/
+  - Potential broken link: ../../tools/pdf-to-png/
+  - Potential broken link: ../../tools/png-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-word/
+  - Potential broken link: ../../tools/word-to-pdf/
+
+js-beautify:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/regex-tester/
+  - Potential broken link: ../../tools/markdown-preview/
+  - Potential broken link: ../../tools/jwt-decoder/
+  - Potential broken link: ../../tools/html-minify/
+  - Potential broken link: ../../tools/css-minify/
+  - Potential broken link: ../../tools/sql-formatter/
+  - Potential broken link: ../../tools/cron-generator/
+  - Potential broken link: ../../tools/text-to-slug/
+
+json-formatter:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/base64/
+  - Potential broken link: ../../tools/url-encode/
+  - Potential broken link: ../../tools/html-encode/
+  - Potential broken link: ../../tools/json-to-csv/
+  - Potential broken link: ../../tools/csv-to-json/
+  - Potential broken link: ../../tools/json-to-xml/
+  - Potential broken link: ../../tools/json-to-yaml/
+  - Potential broken link: ../../tools/number-base/
+
+json-to-csv:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/base64/
+  - Potential broken link: ../../tools/url-encode/
+  - Potential broken link: ../../tools/html-encode/
+  - Potential broken link: ../../tools/json-formatter/
+  - Potential broken link: ../../tools/csv-to-json/
+  - Potential broken link: ../../tools/json-to-xml/
+  - Potential broken link: ../../tools/json-to-yaml/
+  - Potential broken link: ../../tools/number-base/
+
+json-to-xml:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/base64/
+  - Potential broken link: ../../tools/url-encode/
+  - Potential broken link: ../../tools/html-encode/
+  - Potential broken link: ../../tools/json-formatter/
+  - Potential broken link: ../../tools/json-to-csv/
+  - Potential broken link: ../../tools/csv-to-json/
+  - Potential broken link: ../../tools/json-to-yaml/
+  - Potential broken link: ../../tools/number-base/
+
+json-to-yaml:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/base64/
+  - Potential broken link: ../../tools/url-encode/
+  - Potential broken link: ../../tools/html-encode/
+  - Potential broken link: ../../tools/json-formatter/
+  - Potential broken link: ../../tools/json-to-csv/
+  - Potential broken link: ../../tools/csv-to-json/
+  - Potential broken link: ../../tools/json-to-xml/
+  - Potential broken link: ../../tools/number-base/
+
+jwt-decoder:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/regex-tester/
+  - Potential broken link: ../../tools/markdown-preview/
+  - Potential broken link: ../../tools/html-minify/
+  - Potential broken link: ../../tools/css-minify/
+  - Potential broken link: ../../tools/js-beautify/
+  - Potential broken link: ../../tools/sql-formatter/
+  - Potential broken link: ../../tools/cron-generator/
+  - Potential broken link: ../../tools/text-to-slug/
+
+keyword-density:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/meta-generator/
+  - Potential broken link: ../../tools/robots-generator/
+  - Potential broken link: ../../tools/utm-builder/
+  - Potential broken link: ../../tools/serp-preview/
+  - Potential broken link: ../../tools/og-generator/
+  - Potential broken link: ../../tools/twitter-card/
+  - Potential broken link: ../../tools/htaccess-redirect/
+  - Potential broken link: ../../tools/backlink-checker/
+
+keyword-suggestion:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/meta-generator/
+  - Potential broken link: ../../tools/keyword-density/
+  - Potential broken link: ../../tools/robots-generator/
+  - Potential broken link: ../../tools/utm-builder/
+  - Potential broken link: ../../tools/serp-preview/
+  - Potential broken link: ../../tools/og-generator/
+  - Potential broken link: ../../tools/twitter-card/
+  - Potential broken link: ../../tools/htaccess-redirect/
+
+loan-calc:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/percentage-calc/
+  - Potential broken link: ../../tools/percentage-change/
+  - Potential broken link: ../../tools/mortgage-calc/
+  - Potential broken link: ../../tools/compound-interest/
+  - Potential broken link: ../../tools/roi-calc/
+  - Potential broken link: ../../tools/salary-calc/
+  - Potential broken link: ../../tools/sales-tax/
+  - Potential broken link: ../../tools/markup-calc/
+
+lorem-ipsum:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+
+lorem-json:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/password-generator/
+  - Potential broken link: ../../tools/qr-generator/
+  - Potential broken link: ../../tools/barcode-generator/
+  - Potential broken link: ../../tools/uuid-generator/
+  - Potential broken link: ../../tools/random-number/
+  - Potential broken link: ../../tools/random-string/
+  - Potential broken link: ../../tools/random-name/
+  - Potential broken link: ../../tools/pin-generator/
+
+macro-calc:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/bmi-calc/
+  - Potential broken link: ../../tools/bmr-calc/
+  - Potential broken link: ../../tools/tdee-calc/
+  - Potential broken link: ../../tools/calorie-calc/
+  - Potential broken link: ../../tools/body-fat/
+  - Potential broken link: ../../tools/ideal-weight/
+  - Potential broken link: ../../tools/water-intake/
+  - Potential broken link: ../../tools/one-rep-max/
+
+markdown-preview:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/regex-tester/
+  - Potential broken link: ../../tools/jwt-decoder/
+  - Potential broken link: ../../tools/html-minify/
+  - Potential broken link: ../../tools/css-minify/
+  - Potential broken link: ../../tools/js-beautify/
+  - Potential broken link: ../../tools/sql-formatter/
+  - Potential broken link: ../../tools/cron-generator/
+  - Potential broken link: ../../tools/text-to-slug/
+
+markup-calc:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/percentage-calc/
+  - Potential broken link: ../../tools/percentage-change/
+  - Potential broken link: ../../tools/loan-calc/
+  - Potential broken link: ../../tools/mortgage-calc/
+  - Potential broken link: ../../tools/compound-interest/
+  - Potential broken link: ../../tools/roi-calc/
+  - Potential broken link: ../../tools/salary-calc/
+  - Potential broken link: ../../tools/sales-tax/
+
+md5-generator:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/aes-encrypt/
+  - Potential broken link: ../../tools/caesar-cipher/
+  - Potential broken link: ../../tools/rot13/
+  - Potential broken link: ../../tools/bcrypt-generator/
+  - Potential broken link: ../../tools/htpasswd/
+  - Potential broken link: ../../tools/ssl-checker/
+
+meme-generator:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/image-compressor/
+  - Potential broken link: ../../tools/image-resizer/
+  - Potential broken link: ../../tools/image-converter/
+  - Potential broken link: ../../tools/image-to-base64/
+  - Potential broken link: ../../tools/base64-to-image/
+  - Potential broken link: ../../tools/image-crop/
+  - Potential broken link: ../../tools/rotate-image/
+  - Potential broken link: ../../tools/circle-crop/
+
+merge-pdf:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/compress-pdf/
+  - Potential broken link: ../../tools/split-pdf/
+  - Potential broken link: ../../tools/pdf-to-jpg/
+  - Potential broken link: ../../tools/jpg-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-png/
+  - Potential broken link: ../../tools/png-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-word/
+  - Potential broken link: ../../tools/word-to-pdf/
+
+meta-generator:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/keyword-density/
+  - Potential broken link: ../../tools/robots-generator/
+  - Potential broken link: ../../tools/utm-builder/
+  - Potential broken link: ../../tools/serp-preview/
+  - Potential broken link: ../../tools/og-generator/
+  - Potential broken link: ../../tools/twitter-card/
+  - Potential broken link: ../../tools/htaccess-redirect/
+  - Potential broken link: ../../tools/backlink-checker/
+
+mortgage-calc:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/percentage-calc/
+  - Potential broken link: ../../tools/percentage-change/
+  - Potential broken link: ../../tools/loan-calc/
+  - Potential broken link: ../../tools/compound-interest/
+  - Potential broken link: ../../tools/roi-calc/
+  - Potential broken link: ../../tools/salary-calc/
+  - Potential broken link: ../../tools/sales-tax/
+  - Potential broken link: ../../tools/markup-calc/
+
+name-picker:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/notepad/
+  - Potential broken link: ../../tools/todo-list/
+  - Potential broken link: ../../tools/wheel-picker/
+  - Potential broken link: ../../tools/dice-roller/
+  - Potential broken link: ../../tools/coin-flip/
+  - Potential broken link: ../../tools/tally-counter/
+  - Potential broken link: ../../tools/whats-my-ip/
+  - Potential broken link: ../../tools/browser-info/
+
+notepad:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/todo-list/
+  - Potential broken link: ../../tools/wheel-picker/
+  - Potential broken link: ../../tools/name-picker/
+  - Potential broken link: ../../tools/dice-roller/
+  - Potential broken link: ../../tools/coin-flip/
+  - Potential broken link: ../../tools/tally-counter/
+  - Potential broken link: ../../tools/whats-my-ip/
+  - Potential broken link: ../../tools/browser-info/
+
+number-base:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/base64/
+  - Potential broken link: ../../tools/url-encode/
+  - Potential broken link: ../../tools/html-encode/
+  - Potential broken link: ../../tools/json-formatter/
+  - Potential broken link: ../../tools/json-to-csv/
+  - Potential broken link: ../../tools/csv-to-json/
+  - Potential broken link: ../../tools/json-to-xml/
+  - Potential broken link: ../../tools/json-to-yaml/
+
+og-generator:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/meta-generator/
+  - Potential broken link: ../../tools/keyword-density/
+  - Potential broken link: ../../tools/robots-generator/
+  - Potential broken link: ../../tools/utm-builder/
+  - Potential broken link: ../../tools/serp-preview/
+  - Potential broken link: ../../tools/twitter-card/
+  - Potential broken link: ../../tools/htaccess-redirect/
+  - Potential broken link: ../../tools/backlink-checker/
+
+one-rep-max:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/bmi-calc/
+  - Potential broken link: ../../tools/bmr-calc/
+  - Potential broken link: ../../tools/tdee-calc/
+  - Potential broken link: ../../tools/calorie-calc/
+  - Potential broken link: ../../tools/macro-calc/
+  - Potential broken link: ../../tools/body-fat/
+  - Potential broken link: ../../tools/ideal-weight/
+  - Potential broken link: ../../tools/water-intake/
+
+palette-generator:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/color-picker/
+  - Potential broken link: ../../tools/gradient-generator/
+  - Potential broken link: ../../tools/contrast-checker/
+  - Potential broken link: ../../tools/shadow-generator/
+  - Potential broken link: ../../tools/border-radius/
+  - Potential broken link: ../../tools/css-triangle/
+  - Potential broken link: ../../tools/color-blindness/
+
+paraphraser:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+
+password-generator:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/qr-generator/
+  - Potential broken link: ../../tools/barcode-generator/
+  - Potential broken link: ../../tools/uuid-generator/
+  - Potential broken link: ../../tools/random-number/
+  - Potential broken link: ../../tools/random-string/
+  - Potential broken link: ../../tools/random-name/
+  - Potential broken link: ../../tools/pin-generator/
+  - Potential broken link: ../../tools/api-key-generator/
+
+password-strength:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/password-generator/
+  - Potential broken link: ../../tools/qr-generator/
+  - Potential broken link: ../../tools/barcode-generator/
+  - Potential broken link: ../../tools/uuid-generator/
+  - Potential broken link: ../../tools/random-number/
+  - Potential broken link: ../../tools/random-string/
+  - Potential broken link: ../../tools/random-name/
+  - Potential broken link: ../../tools/pin-generator/
+
+pdf-extract-text:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/compress-pdf/
+  - Potential broken link: ../../tools/merge-pdf/
+  - Potential broken link: ../../tools/split-pdf/
+  - Potential broken link: ../../tools/pdf-to-jpg/
+  - Potential broken link: ../../tools/jpg-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-png/
+  - Potential broken link: ../../tools/png-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-word/
+
+pdf-page-numbers:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/compress-pdf/
+  - Potential broken link: ../../tools/merge-pdf/
+  - Potential broken link: ../../tools/split-pdf/
+  - Potential broken link: ../../tools/pdf-to-jpg/
+  - Potential broken link: ../../tools/jpg-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-png/
+  - Potential broken link: ../../tools/png-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-word/
+
+pdf-to-excel:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/compress-pdf/
+  - Potential broken link: ../../tools/merge-pdf/
+  - Potential broken link: ../../tools/split-pdf/
+  - Potential broken link: ../../tools/pdf-to-jpg/
+  - Potential broken link: ../../tools/jpg-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-png/
+  - Potential broken link: ../../tools/png-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-word/
+
+pdf-to-jpg:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/compress-pdf/
+  - Potential broken link: ../../tools/merge-pdf/
+  - Potential broken link: ../../tools/split-pdf/
+  - Potential broken link: ../../tools/jpg-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-png/
+  - Potential broken link: ../../tools/png-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-word/
+  - Potential broken link: ../../tools/word-to-pdf/
+
+pdf-to-png:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/compress-pdf/
+  - Potential broken link: ../../tools/merge-pdf/
+  - Potential broken link: ../../tools/split-pdf/
+  - Potential broken link: ../../tools/pdf-to-jpg/
+  - Potential broken link: ../../tools/jpg-to-pdf/
+  - Potential broken link: ../../tools/png-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-word/
+  - Potential broken link: ../../tools/word-to-pdf/
+
+pdf-to-word:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/compress-pdf/
+  - Potential broken link: ../../tools/merge-pdf/
+  - Potential broken link: ../../tools/split-pdf/
+  - Potential broken link: ../../tools/pdf-to-jpg/
+  - Potential broken link: ../../tools/jpg-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-png/
+  - Potential broken link: ../../tools/png-to-pdf/
+  - Potential broken link: ../../tools/word-to-pdf/
+
+percentage-calc:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/percentage-change/
+  - Potential broken link: ../../tools/loan-calc/
+  - Potential broken link: ../../tools/mortgage-calc/
+  - Potential broken link: ../../tools/compound-interest/
+  - Potential broken link: ../../tools/roi-calc/
+  - Potential broken link: ../../tools/salary-calc/
+  - Potential broken link: ../../tools/sales-tax/
+  - Potential broken link: ../../tools/markup-calc/
+
+percentage-change:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/percentage-calc/
+  - Potential broken link: ../../tools/loan-calc/
+  - Potential broken link: ../../tools/mortgage-calc/
+  - Potential broken link: ../../tools/compound-interest/
+  - Potential broken link: ../../tools/roi-calc/
+  - Potential broken link: ../../tools/salary-calc/
+  - Potential broken link: ../../tools/sales-tax/
+  - Potential broken link: ../../tools/markup-calc/
+
+photo-filters:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/image-compressor/
+  - Potential broken link: ../../tools/image-resizer/
+  - Potential broken link: ../../tools/image-converter/
+  - Potential broken link: ../../tools/image-to-base64/
+  - Potential broken link: ../../tools/base64-to-image/
+  - Potential broken link: ../../tools/image-crop/
+  - Potential broken link: ../../tools/rotate-image/
+  - Potential broken link: ../../tools/circle-crop/
+
+pin-generator:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/password-generator/
+  - Potential broken link: ../../tools/qr-generator/
+  - Potential broken link: ../../tools/barcode-generator/
+  - Potential broken link: ../../tools/uuid-generator/
+  - Potential broken link: ../../tools/random-number/
+  - Potential broken link: ../../tools/random-string/
+  - Potential broken link: ../../tools/random-name/
+  - Potential broken link: ../../tools/api-key-generator/
+
+pixelate-image:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/image-compressor/
+  - Potential broken link: ../../tools/image-resizer/
+  - Potential broken link: ../../tools/image-converter/
+  - Potential broken link: ../../tools/image-to-base64/
+  - Potential broken link: ../../tools/base64-to-image/
+  - Potential broken link: ../../tools/image-crop/
+  - Potential broken link: ../../tools/rotate-image/
+  - Potential broken link: ../../tools/circle-crop/
+
+plagiarism-checker:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+
+png-to-pdf:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/compress-pdf/
+  - Potential broken link: ../../tools/merge-pdf/
+  - Potential broken link: ../../tools/split-pdf/
+  - Potential broken link: ../../tools/pdf-to-jpg/
+  - Potential broken link: ../../tools/jpg-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-png/
+  - Potential broken link: ../../tools/pdf-to-word/
+  - Potential broken link: ../../tools/word-to-pdf/
+
+pomodoro:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/countdown-timer/
+  - Potential broken link: ../../tools/days-until/
+  - Potential broken link: ../../tools/add-subtract-days/
+  - Potential broken link: ../../tools/week-number/
+  - Potential broken link: ../../tools/timezone-converter/
+  - Potential broken link: ../../tools/stopwatch/
+  - Potential broken link: ../../tools/work-hours/
+  - Potential broken link: ../../tools/birthday-countdown/
+
+ppt-to-pdf:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/compress-pdf/
+  - Potential broken link: ../../tools/merge-pdf/
+  - Potential broken link: ../../tools/split-pdf/
+  - Potential broken link: ../../tools/pdf-to-jpg/
+  - Potential broken link: ../../tools/jpg-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-png/
+  - Potential broken link: ../../tools/png-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-word/
+
+pregnancy-due:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/bmi-calc/
+  - Potential broken link: ../../tools/bmr-calc/
+  - Potential broken link: ../../tools/tdee-calc/
+  - Potential broken link: ../../tools/calorie-calc/
+  - Potential broken link: ../../tools/macro-calc/
+  - Potential broken link: ../../tools/body-fat/
+  - Potential broken link: ../../tools/ideal-weight/
+  - Potential broken link: ../../tools/water-intake/
+
+prime-checker:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/factorial-calc/
+  - Potential broken link: ../../tools/gcd-lcm/
+  - Potential broken link: ../../tools/quadratic-solver/
+  - Potential broken link: ../../tools/standard-deviation/
+  - Potential broken link: ../../tools/rounding-calc/
+  - Potential broken link: ../../tools/fraction-calc/
+  - Potential broken link: ../../tools/ratio-calc/
+  - Potential broken link: ../../tools/random-picker-num/
+
+protect-pdf:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/compress-pdf/
+  - Potential broken link: ../../tools/merge-pdf/
+  - Potential broken link: ../../tools/split-pdf/
+  - Potential broken link: ../../tools/pdf-to-jpg/
+  - Potential broken link: ../../tools/jpg-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-png/
+  - Potential broken link: ../../tools/png-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-word/
+
+qr-generator:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/password-generator/
+  - Potential broken link: ../../tools/barcode-generator/
+  - Potential broken link: ../../tools/uuid-generator/
+  - Potential broken link: ../../tools/random-number/
+  - Potential broken link: ../../tools/random-string/
+  - Potential broken link: ../../tools/random-name/
+  - Potential broken link: ../../tools/pin-generator/
+  - Potential broken link: ../../tools/api-key-generator/
+
+quadratic-solver:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/prime-checker/
+  - Potential broken link: ../../tools/factorial-calc/
+  - Potential broken link: ../../tools/gcd-lcm/
+  - Potential broken link: ../../tools/standard-deviation/
+  - Potential broken link: ../../tools/rounding-calc/
+  - Potential broken link: ../../tools/fraction-calc/
+  - Potential broken link: ../../tools/ratio-calc/
+  - Potential broken link: ../../tools/random-picker-num/
+
+query-parser:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/base64/
+  - Potential broken link: ../../tools/url-encode/
+  - Potential broken link: ../../tools/html-encode/
+  - Potential broken link: ../../tools/json-formatter/
+  - Potential broken link: ../../tools/json-to-csv/
+  - Potential broken link: ../../tools/csv-to-json/
+  - Potential broken link: ../../tools/json-to-xml/
+  - Potential broken link: ../../tools/json-to-yaml/
+
+random-name:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/password-generator/
+  - Potential broken link: ../../tools/qr-generator/
+  - Potential broken link: ../../tools/barcode-generator/
+  - Potential broken link: ../../tools/uuid-generator/
+  - Potential broken link: ../../tools/random-number/
+  - Potential broken link: ../../tools/random-string/
+  - Potential broken link: ../../tools/pin-generator/
+  - Potential broken link: ../../tools/api-key-generator/
+
+random-number:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/password-generator/
+  - Potential broken link: ../../tools/qr-generator/
+  - Potential broken link: ../../tools/barcode-generator/
+  - Potential broken link: ../../tools/uuid-generator/
+  - Potential broken link: ../../tools/random-string/
+  - Potential broken link: ../../tools/random-name/
+  - Potential broken link: ../../tools/pin-generator/
+  - Potential broken link: ../../tools/api-key-generator/
+
+random-picker-num:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/prime-checker/
+  - Potential broken link: ../../tools/factorial-calc/
+  - Potential broken link: ../../tools/gcd-lcm/
+  - Potential broken link: ../../tools/quadratic-solver/
+  - Potential broken link: ../../tools/standard-deviation/
+  - Potential broken link: ../../tools/rounding-calc/
+  - Potential broken link: ../../tools/fraction-calc/
+  - Potential broken link: ../../tools/ratio-calc/
+
+random-string:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/password-generator/
+  - Potential broken link: ../../tools/qr-generator/
+  - Potential broken link: ../../tools/barcode-generator/
+  - Potential broken link: ../../tools/uuid-generator/
+  - Potential broken link: ../../tools/random-number/
+  - Potential broken link: ../../tools/random-name/
+  - Potential broken link: ../../tools/pin-generator/
+  - Potential broken link: ../../tools/api-key-generator/
+
+ratio-calc:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/prime-checker/
+  - Potential broken link: ../../tools/factorial-calc/
+  - Potential broken link: ../../tools/gcd-lcm/
+  - Potential broken link: ../../tools/quadratic-solver/
+  - Potential broken link: ../../tools/standard-deviation/
+  - Potential broken link: ../../tools/rounding-calc/
+  - Potential broken link: ../../tools/fraction-calc/
+  - Potential broken link: ../../tools/random-picker-num/
+
+reel-transcriber:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/video-downloader/
+  - Potential broken link: ../../tools/thumbnail-downloader/
+  - Potential broken link: ../../tools/video-to-mp3/
+  - Potential broken link: ../../tools/subtitle-generator/
+  - Potential broken link: ../../tools/clip-maker/
+  - Potential broken link: ../../tools/video-compressor/
+  - Potential broken link: ../../tools/twitter-char-counter/
+  - Potential broken link: ../../tools/engagement-rate/
+
+regex-tester:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/markdown-preview/
+  - Potential broken link: ../../tools/jwt-decoder/
+  - Potential broken link: ../../tools/html-minify/
+  - Potential broken link: ../../tools/css-minify/
+  - Potential broken link: ../../tools/js-beautify/
+  - Potential broken link: ../../tools/sql-formatter/
+  - Potential broken link: ../../tools/cron-generator/
+  - Potential broken link: ../../tools/text-to-slug/
+
+remove-duplicate-lines:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+  - Potential broken link: ../../tools/remove-line-breaks/
+
+remove-empty-lines:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+  - Potential broken link: ../../tools/remove-line-breaks/
+
+remove-extra-spaces:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-line-breaks/
+
+remove-line-breaks:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+
+resume-builder:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/password-generator/
+  - Potential broken link: ../../tools/qr-generator/
+  - Potential broken link: ../../tools/barcode-generator/
+  - Potential broken link: ../../tools/uuid-generator/
+  - Potential broken link: ../../tools/random-number/
+  - Potential broken link: ../../tools/random-string/
+  - Potential broken link: ../../tools/random-name/
+  - Potential broken link: ../../tools/pin-generator/
+
+reverse-text:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+
+robots-generator:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/meta-generator/
+  - Potential broken link: ../../tools/keyword-density/
+  - Potential broken link: ../../tools/utm-builder/
+  - Potential broken link: ../../tools/serp-preview/
+  - Potential broken link: ../../tools/og-generator/
+  - Potential broken link: ../../tools/twitter-card/
+  - Potential broken link: ../../tools/htaccess-redirect/
+  - Potential broken link: ../../tools/backlink-checker/
+
+roi-calc:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/percentage-calc/
+  - Potential broken link: ../../tools/percentage-change/
+  - Potential broken link: ../../tools/loan-calc/
+  - Potential broken link: ../../tools/mortgage-calc/
+  - Potential broken link: ../../tools/compound-interest/
+  - Potential broken link: ../../tools/salary-calc/
+  - Potential broken link: ../../tools/sales-tax/
+  - Potential broken link: ../../tools/markup-calc/
+
+roman-numeral:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/base64/
+  - Potential broken link: ../../tools/url-encode/
+  - Potential broken link: ../../tools/html-encode/
+  - Potential broken link: ../../tools/json-formatter/
+  - Potential broken link: ../../tools/json-to-csv/
+  - Potential broken link: ../../tools/csv-to-json/
+  - Potential broken link: ../../tools/json-to-xml/
+  - Potential broken link: ../../tools/json-to-yaml/
+
+rot13:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/aes-encrypt/
+  - Potential broken link: ../../tools/caesar-cipher/
+  - Potential broken link: ../../tools/md5-generator/
+  - Potential broken link: ../../tools/bcrypt-generator/
+  - Potential broken link: ../../tools/htpasswd/
+  - Potential broken link: ../../tools/ssl-checker/
+
+rotate-image:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/image-compressor/
+  - Potential broken link: ../../tools/image-resizer/
+  - Potential broken link: ../../tools/image-converter/
+  - Potential broken link: ../../tools/image-to-base64/
+  - Potential broken link: ../../tools/base64-to-image/
+  - Potential broken link: ../../tools/image-crop/
+  - Potential broken link: ../../tools/circle-crop/
+  - Potential broken link: ../../tools/pixelate-image/
+
+rotate-pdf:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/compress-pdf/
+  - Potential broken link: ../../tools/merge-pdf/
+  - Potential broken link: ../../tools/split-pdf/
+  - Potential broken link: ../../tools/pdf-to-jpg/
+  - Potential broken link: ../../tools/jpg-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-png/
+  - Potential broken link: ../../tools/png-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-word/
+
+rounding-calc:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/prime-checker/
+  - Potential broken link: ../../tools/factorial-calc/
+  - Potential broken link: ../../tools/gcd-lcm/
+  - Potential broken link: ../../tools/quadratic-solver/
+  - Potential broken link: ../../tools/standard-deviation/
+  - Potential broken link: ../../tools/fraction-calc/
+  - Potential broken link: ../../tools/ratio-calc/
+  - Potential broken link: ../../tools/random-picker-num/
+
+salary-calc:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/percentage-calc/
+  - Potential broken link: ../../tools/percentage-change/
+  - Potential broken link: ../../tools/loan-calc/
+  - Potential broken link: ../../tools/mortgage-calc/
+  - Potential broken link: ../../tools/compound-interest/
+  - Potential broken link: ../../tools/roi-calc/
+  - Potential broken link: ../../tools/sales-tax/
+  - Potential broken link: ../../tools/markup-calc/
+
+sales-tax:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/percentage-calc/
+  - Potential broken link: ../../tools/percentage-change/
+  - Potential broken link: ../../tools/loan-calc/
+  - Potential broken link: ../../tools/mortgage-calc/
+  - Potential broken link: ../../tools/compound-interest/
+  - Potential broken link: ../../tools/roi-calc/
+  - Potential broken link: ../../tools/salary-calc/
+  - Potential broken link: ../../tools/markup-calc/
+
+scientific-calc:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/percentage-calc/
+  - Potential broken link: ../../tools/percentage-change/
+  - Potential broken link: ../../tools/loan-calc/
+  - Potential broken link: ../../tools/mortgage-calc/
+  - Potential broken link: ../../tools/compound-interest/
+  - Potential broken link: ../../tools/roi-calc/
+  - Potential broken link: ../../tools/salary-calc/
+  - Potential broken link: ../../tools/sales-tax/
+
+screen-resolution:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/notepad/
+  - Potential broken link: ../../tools/todo-list/
+  - Potential broken link: ../../tools/wheel-picker/
+  - Potential broken link: ../../tools/name-picker/
+  - Potential broken link: ../../tools/dice-roller/
+  - Potential broken link: ../../tools/coin-flip/
+  - Potential broken link: ../../tools/tally-counter/
+  - Potential broken link: ../../tools/whats-my-ip/
+
+serp-preview:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/meta-generator/
+  - Potential broken link: ../../tools/keyword-density/
+  - Potential broken link: ../../tools/robots-generator/
+  - Potential broken link: ../../tools/utm-builder/
+  - Potential broken link: ../../tools/og-generator/
+  - Potential broken link: ../../tools/twitter-card/
+  - Potential broken link: ../../tools/htaccess-redirect/
+  - Potential broken link: ../../tools/backlink-checker/
+
+shadow-generator:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/color-picker/
+  - Potential broken link: ../../tools/gradient-generator/
+  - Potential broken link: ../../tools/contrast-checker/
+  - Potential broken link: ../../tools/palette-generator/
+  - Potential broken link: ../../tools/border-radius/
+  - Potential broken link: ../../tools/css-triangle/
+  - Potential broken link: ../../tools/color-blindness/
+
+slug-generator:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+
+sort-lines:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+  - Potential broken link: ../../tools/remove-line-breaks/
+
+speech-to-text:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/base64/
+  - Potential broken link: ../../tools/url-encode/
+  - Potential broken link: ../../tools/html-encode/
+  - Potential broken link: ../../tools/json-formatter/
+  - Potential broken link: ../../tools/json-to-csv/
+  - Potential broken link: ../../tools/csv-to-json/
+  - Potential broken link: ../../tools/json-to-xml/
+  - Potential broken link: ../../tools/json-to-yaml/
+
+speed-distance-time:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/percentage-calc/
+  - Potential broken link: ../../tools/percentage-change/
+  - Potential broken link: ../../tools/loan-calc/
+  - Potential broken link: ../../tools/mortgage-calc/
+  - Potential broken link: ../../tools/compound-interest/
+  - Potential broken link: ../../tools/roi-calc/
+  - Potential broken link: ../../tools/salary-calc/
+  - Potential broken link: ../../tools/sales-tax/
+
+split-pdf:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/compress-pdf/
+  - Potential broken link: ../../tools/merge-pdf/
+  - Potential broken link: ../../tools/pdf-to-jpg/
+  - Potential broken link: ../../tools/jpg-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-png/
+  - Potential broken link: ../../tools/png-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-word/
+  - Potential broken link: ../../tools/word-to-pdf/
+
+sql-formatter:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/regex-tester/
+  - Potential broken link: ../../tools/markdown-preview/
+  - Potential broken link: ../../tools/jwt-decoder/
+  - Potential broken link: ../../tools/html-minify/
+  - Potential broken link: ../../tools/css-minify/
+  - Potential broken link: ../../tools/js-beautify/
+  - Potential broken link: ../../tools/cron-generator/
+  - Potential broken link: ../../tools/text-to-slug/
+
+ssl-checker:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/aes-encrypt/
+  - Potential broken link: ../../tools/caesar-cipher/
+  - Potential broken link: ../../tools/rot13/
+  - Potential broken link: ../../tools/md5-generator/
+  - Potential broken link: ../../tools/bcrypt-generator/
+  - Potential broken link: ../../tools/htpasswd/
+
+standard-deviation:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/prime-checker/
+  - Potential broken link: ../../tools/factorial-calc/
+  - Potential broken link: ../../tools/gcd-lcm/
+  - Potential broken link: ../../tools/quadratic-solver/
+  - Potential broken link: ../../tools/rounding-calc/
+  - Potential broken link: ../../tools/fraction-calc/
+  - Potential broken link: ../../tools/ratio-calc/
+  - Potential broken link: ../../tools/random-picker-num/
+
+stopwatch:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/countdown-timer/
+  - Potential broken link: ../../tools/days-until/
+  - Potential broken link: ../../tools/add-subtract-days/
+  - Potential broken link: ../../tools/week-number/
+  - Potential broken link: ../../tools/timezone-converter/
+  - Potential broken link: ../../tools/pomodoro/
+  - Potential broken link: ../../tools/work-hours/
+  - Potential broken link: ../../tools/birthday-countdown/
+
+subtitle-generator:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/reel-transcriber/
+  - Potential broken link: ../../tools/video-downloader/
+  - Potential broken link: ../../tools/thumbnail-downloader/
+  - Potential broken link: ../../tools/video-to-mp3/
+  - Potential broken link: ../../tools/clip-maker/
+  - Potential broken link: ../../tools/video-compressor/
+  - Potential broken link: ../../tools/twitter-char-counter/
+  - Potential broken link: ../../tools/engagement-rate/
+
+summarizer:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+
+tally-counter:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/notepad/
+  - Potential broken link: ../../tools/todo-list/
+  - Potential broken link: ../../tools/wheel-picker/
+  - Potential broken link: ../../tools/name-picker/
+  - Potential broken link: ../../tools/dice-roller/
+  - Potential broken link: ../../tools/coin-flip/
+  - Potential broken link: ../../tools/whats-my-ip/
+  - Potential broken link: ../../tools/browser-info/
+
+tdee-calc:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/bmi-calc/
+  - Potential broken link: ../../tools/bmr-calc/
+  - Potential broken link: ../../tools/calorie-calc/
+  - Potential broken link: ../../tools/macro-calc/
+  - Potential broken link: ../../tools/body-fat/
+  - Potential broken link: ../../tools/ideal-weight/
+  - Potential broken link: ../../tools/water-intake/
+  - Potential broken link: ../../tools/one-rep-max/
+
+text-diff:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+  - Potential broken link: ../../tools/remove-line-breaks/
+
+text-repeater:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+
+text-to-binary:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+
+text-to-morse:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+
+text-to-slug:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/regex-tester/
+  - Potential broken link: ../../tools/markdown-preview/
+  - Potential broken link: ../../tools/jwt-decoder/
+  - Potential broken link: ../../tools/html-minify/
+  - Potential broken link: ../../tools/css-minify/
+  - Potential broken link: ../../tools/js-beautify/
+  - Potential broken link: ../../tools/sql-formatter/
+  - Potential broken link: ../../tools/cron-generator/
+
+text-to-speech:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/base64/
+  - Potential broken link: ../../tools/url-encode/
+  - Potential broken link: ../../tools/html-encode/
+  - Potential broken link: ../../tools/json-formatter/
+  - Potential broken link: ../../tools/json-to-csv/
+  - Potential broken link: ../../tools/csv-to-json/
+  - Potential broken link: ../../tools/json-to-xml/
+  - Potential broken link: ../../tools/json-to-yaml/
+
+thumbnail-downloader:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/reel-transcriber/
+  - Potential broken link: ../../tools/video-downloader/
+  - Potential broken link: ../../tools/video-to-mp3/
+  - Potential broken link: ../../tools/subtitle-generator/
+  - Potential broken link: ../../tools/clip-maker/
+  - Potential broken link: ../../tools/video-compressor/
+  - Potential broken link: ../../tools/twitter-char-counter/
+  - Potential broken link: ../../tools/engagement-rate/
+
+timestamp-converter:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/base64/
+  - Potential broken link: ../../tools/url-encode/
+  - Potential broken link: ../../tools/html-encode/
+  - Potential broken link: ../../tools/json-formatter/
+  - Potential broken link: ../../tools/json-to-csv/
+  - Potential broken link: ../../tools/csv-to-json/
+  - Potential broken link: ../../tools/json-to-xml/
+  - Potential broken link: ../../tools/json-to-yaml/
+
+timezone-converter:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/countdown-timer/
+  - Potential broken link: ../../tools/days-until/
+  - Potential broken link: ../../tools/add-subtract-days/
+  - Potential broken link: ../../tools/week-number/
+  - Potential broken link: ../../tools/stopwatch/
+  - Potential broken link: ../../tools/pomodoro/
+  - Potential broken link: ../../tools/work-hours/
+  - Potential broken link: ../../tools/birthday-countdown/
+
+tip-calc:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/percentage-calc/
+  - Potential broken link: ../../tools/percentage-change/
+  - Potential broken link: ../../tools/loan-calc/
+  - Potential broken link: ../../tools/mortgage-calc/
+  - Potential broken link: ../../tools/compound-interest/
+  - Potential broken link: ../../tools/roi-calc/
+  - Potential broken link: ../../tools/salary-calc/
+  - Potential broken link: ../../tools/sales-tax/
+
+todo-list:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/notepad/
+  - Potential broken link: ../../tools/wheel-picker/
+  - Potential broken link: ../../tools/name-picker/
+  - Potential broken link: ../../tools/dice-roller/
+  - Potential broken link: ../../tools/coin-flip/
+  - Potential broken link: ../../tools/tally-counter/
+  - Potential broken link: ../../tools/whats-my-ip/
+  - Potential broken link: ../../tools/browser-info/
+
+twitter-card:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/meta-generator/
+  - Potential broken link: ../../tools/keyword-density/
+  - Potential broken link: ../../tools/robots-generator/
+  - Potential broken link: ../../tools/utm-builder/
+  - Potential broken link: ../../tools/serp-preview/
+  - Potential broken link: ../../tools/og-generator/
+  - Potential broken link: ../../tools/htaccess-redirect/
+  - Potential broken link: ../../tools/backlink-checker/
+
+twitter-char-counter:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/reel-transcriber/
+  - Potential broken link: ../../tools/video-downloader/
+  - Potential broken link: ../../tools/thumbnail-downloader/
+  - Potential broken link: ../../tools/video-to-mp3/
+  - Potential broken link: ../../tools/subtitle-generator/
+  - Potential broken link: ../../tools/clip-maker/
+  - Potential broken link: ../../tools/video-compressor/
+  - Potential broken link: ../../tools/engagement-rate/
+
+unit-converter:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/base64/
+  - Potential broken link: ../../tools/url-encode/
+  - Potential broken link: ../../tools/html-encode/
+  - Potential broken link: ../../tools/json-formatter/
+  - Potential broken link: ../../tools/json-to-csv/
+  - Potential broken link: ../../tools/csv-to-json/
+  - Potential broken link: ../../tools/json-to-xml/
+  - Potential broken link: ../../tools/json-to-yaml/
+
+unlock-pdf:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/compress-pdf/
+  - Potential broken link: ../../tools/merge-pdf/
+  - Potential broken link: ../../tools/split-pdf/
+  - Potential broken link: ../../tools/pdf-to-jpg/
+  - Potential broken link: ../../tools/jpg-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-png/
+  - Potential broken link: ../../tools/png-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-word/
+
+upside-down-text:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+
+url-encode:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/base64/
+  - Potential broken link: ../../tools/html-encode/
+  - Potential broken link: ../../tools/json-formatter/
+  - Potential broken link: ../../tools/json-to-csv/
+  - Potential broken link: ../../tools/csv-to-json/
+  - Potential broken link: ../../tools/json-to-xml/
+  - Potential broken link: ../../tools/json-to-yaml/
+  - Potential broken link: ../../tools/number-base/
+
+url-parser:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/base64/
+  - Potential broken link: ../../tools/url-encode/
+  - Potential broken link: ../../tools/html-encode/
+  - Potential broken link: ../../tools/json-formatter/
+  - Potential broken link: ../../tools/json-to-csv/
+  - Potential broken link: ../../tools/csv-to-json/
+  - Potential broken link: ../../tools/json-to-xml/
+  - Potential broken link: ../../tools/json-to-yaml/
+
+user-agent:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/regex-tester/
+  - Potential broken link: ../../tools/markdown-preview/
+  - Potential broken link: ../../tools/jwt-decoder/
+  - Potential broken link: ../../tools/html-minify/
+  - Potential broken link: ../../tools/css-minify/
+  - Potential broken link: ../../tools/js-beautify/
+  - Potential broken link: ../../tools/sql-formatter/
+  - Potential broken link: ../../tools/cron-generator/
+
+utm-builder:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/meta-generator/
+  - Potential broken link: ../../tools/keyword-density/
+  - Potential broken link: ../../tools/robots-generator/
+  - Potential broken link: ../../tools/serp-preview/
+  - Potential broken link: ../../tools/og-generator/
+  - Potential broken link: ../../tools/twitter-card/
+  - Potential broken link: ../../tools/htaccess-redirect/
+  - Potential broken link: ../../tools/backlink-checker/
+
+uuid-generator:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/password-generator/
+  - Potential broken link: ../../tools/qr-generator/
+  - Potential broken link: ../../tools/barcode-generator/
+  - Potential broken link: ../../tools/random-number/
+  - Potential broken link: ../../tools/random-string/
+  - Potential broken link: ../../tools/random-name/
+  - Potential broken link: ../../tools/pin-generator/
+  - Potential broken link: ../../tools/api-key-generator/
+
+video-compressor:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/reel-transcriber/
+  - Potential broken link: ../../tools/video-downloader/
+  - Potential broken link: ../../tools/thumbnail-downloader/
+  - Potential broken link: ../../tools/video-to-mp3/
+  - Potential broken link: ../../tools/subtitle-generator/
+  - Potential broken link: ../../tools/clip-maker/
+  - Potential broken link: ../../tools/twitter-char-counter/
+  - Potential broken link: ../../tools/engagement-rate/
+
+video-downloader:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/reel-transcriber/
+  - Potential broken link: ../../tools/thumbnail-downloader/
+  - Potential broken link: ../../tools/video-to-mp3/
+  - Potential broken link: ../../tools/subtitle-generator/
+  - Potential broken link: ../../tools/clip-maker/
+  - Potential broken link: ../../tools/video-compressor/
+  - Potential broken link: ../../tools/twitter-char-counter/
+  - Potential broken link: ../../tools/engagement-rate/
+
+video-to-mp3:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/reel-transcriber/
+  - Potential broken link: ../../tools/video-downloader/
+  - Potential broken link: ../../tools/thumbnail-downloader/
+  - Potential broken link: ../../tools/subtitle-generator/
+  - Potential broken link: ../../tools/clip-maker/
+  - Potential broken link: ../../tools/video-compressor/
+  - Potential broken link: ../../tools/twitter-char-counter/
+  - Potential broken link: ../../tools/engagement-rate/
+
+water-intake:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/bmi-calc/
+  - Potential broken link: ../../tools/bmr-calc/
+  - Potential broken link: ../../tools/tdee-calc/
+  - Potential broken link: ../../tools/calorie-calc/
+  - Potential broken link: ../../tools/macro-calc/
+  - Potential broken link: ../../tools/body-fat/
+  - Potential broken link: ../../tools/ideal-weight/
+  - Potential broken link: ../../tools/one-rep-max/
+
+watermark-pdf:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/compress-pdf/
+  - Potential broken link: ../../tools/merge-pdf/
+  - Potential broken link: ../../tools/split-pdf/
+  - Potential broken link: ../../tools/pdf-to-jpg/
+  - Potential broken link: ../../tools/jpg-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-png/
+  - Potential broken link: ../../tools/png-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-word/
+
+week-number:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/countdown-timer/
+  - Potential broken link: ../../tools/days-until/
+  - Potential broken link: ../../tools/add-subtract-days/
+  - Potential broken link: ../../tools/timezone-converter/
+  - Potential broken link: ../../tools/stopwatch/
+  - Potential broken link: ../../tools/pomodoro/
+  - Potential broken link: ../../tools/work-hours/
+  - Potential broken link: ../../tools/birthday-countdown/
+
+whats-my-ip:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/notepad/
+  - Potential broken link: ../../tools/todo-list/
+  - Potential broken link: ../../tools/wheel-picker/
+  - Potential broken link: ../../tools/name-picker/
+  - Potential broken link: ../../tools/dice-roller/
+  - Potential broken link: ../../tools/coin-flip/
+  - Potential broken link: ../../tools/tally-counter/
+  - Potential broken link: ../../tools/browser-info/
+
+wheel-picker:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/notepad/
+  - Potential broken link: ../../tools/todo-list/
+  - Potential broken link: ../../tools/name-picker/
+  - Potential broken link: ../../tools/dice-roller/
+  - Potential broken link: ../../tools/coin-flip/
+  - Potential broken link: ../../tools/tally-counter/
+  - Potential broken link: ../../tools/whats-my-ip/
+  - Potential broken link: ../../tools/browser-info/
+
+whitespace-remover:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/word-counter/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+
+word-counter:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/case-converter/
+  - Potential broken link: ../../tools/text-diff/
+  - Potential broken link: ../../tools/find-replace/
+  - Potential broken link: ../../tools/sort-lines/
+  - Potential broken link: ../../tools/remove-duplicate-lines/
+  - Potential broken link: ../../tools/remove-empty-lines/
+  - Potential broken link: ../../tools/remove-extra-spaces/
+  - Potential broken link: ../../tools/remove-line-breaks/
+
+word-to-pdf:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/compress-pdf/
+  - Potential broken link: ../../tools/merge-pdf/
+  - Potential broken link: ../../tools/split-pdf/
+  - Potential broken link: ../../tools/pdf-to-jpg/
+  - Potential broken link: ../../tools/jpg-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-png/
+  - Potential broken link: ../../tools/png-to-pdf/
+  - Potential broken link: ../../tools/pdf-to-word/
+
+work-hours:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/countdown-timer/
+  - Potential broken link: ../../tools/days-until/
+  - Potential broken link: ../../tools/add-subtract-days/
+  - Potential broken link: ../../tools/week-number/
+  - Potential broken link: ../../tools/timezone-converter/
+  - Potential broken link: ../../tools/stopwatch/
+  - Potential broken link: ../../tools/pomodoro/
+  - Potential broken link: ../../tools/birthday-countdown/
+
+youtube-money-calc:
+  - Contains old domain: mastertools-501.pages.dev
+  - Potential broken link: ../../tools/
+  - Potential broken link: ../../tools/reel-transcriber/
+  - Potential broken link: ../../tools/video-downloader/
+  - Potential broken link: ../../tools/thumbnail-downloader/
+  - Potential broken link: ../../tools/video-to-mp3/
+  - Potential broken link: ../../tools/subtitle-generator/
+  - Potential broken link: ../../tools/clip-maker/
+  - Potential broken link: ../../tools/video-compressor/
+  - Potential broken link: ../../tools/twitter-char-counter/
