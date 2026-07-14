@@ -65,7 +65,7 @@
     const impl = window.ALL_TOOLS.filter(t => t.impl).length;
     let html = `
       <section class="hero">
-        <h1>Somar's All Free Tools</h1>
+        <h1>ToolStack</h1>
         <p>${totalTools}+ free online tools in one place — PDF, image, video, AI, text, converters, calculators, developer, SEO and security tools. Everything runs entirely in your browser. No signup. No uploads. No limits.</p>
         <div class="hero-stats">
           <div><b>${totalTools}</b> tools online</div>
@@ -138,7 +138,7 @@
   function proPlaceholder(t) {
     return `<div class="coming-soon">
       <h3>⭐ ${esc(t.name)} — Premium tool</h3>
-      <p>${esc(t.desc)} This one needs an AI/server backend (the paid tier of Somar's All Free Tools).</p>
+      <p>${esc(t.desc)} This one needs an AI/server backend (the paid tier of ToolStack).</p>
       <p class="hint">Wire it to an API key or a self-hosted open-weight model, then gate it behind a subscription or higher ad tier.</p>
       <button class="btn" onclick="alert('Hook this button to your backend / checkout.')">Try the demo</button>
     </div>`;
@@ -146,9 +146,9 @@
 
   function renderStatic(page) {
     // NOTE: replace the [BRACKETED] placeholders with your real details before launch.
-    const SITE = "Somar's All Free Tools";
+    const SITE = "ToolStack";
     const EMAIL = "mamunini124@gmail.com";
-    const OWNER = "Somar";
+    const OWNER = "ToolStack";
     const UPDATED = "July 12, 2026";
     const pages = {
       about:

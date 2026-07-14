@@ -1,7 +1,7 @@
 # Setup GitHub Auto-Deployment (10 Minutes Total)
 
 ## Problem
-- Your site still shows "Somar's All Free Tools" 
+- Your site still shows "ToolStack" 
 - Files are renamed locally but not deployed
 - You want automatic deployments (no manual uploads)
 

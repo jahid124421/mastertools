@@ -10,7 +10,7 @@ from pathlib import Path
 HERE = Path(__file__).parent
 DATA = (HERE / "js" / "tools-data.js").read_text(encoding="utf-8")
 SITE = "https://toolstack.dpdns.org"   # primary URL; change when you get a custom domain
-BRAND = "Somar's All Free Tools"
+BRAND = "ToolStack"
 
 cat_re = re.compile(
     r'id:\s*"([^"]+)",\s*name:\s*"([^"]+)",\s*icon:\s*"([^"]+)",\s*desc:\s*"([^"]+)",\s*\n\s*tools:\s*\[(.*?)\]\s*\n\s*\}', re.S)
@@ -121,7 +121,7 @@ def page(t, up):
     idx = sum(ord(c) for c in tid)
     intros = [
         f"{n} is a free online {label} tool that helps you {act_l}. Everything happens right in your browser, so it's fast, completely private, and free — no account, no installs, and no watermarks.",
-        f"Need to {act_l}? {n} does exactly that, straight from your browser. It's part of Somar's All Free Tools' free {esc(cat)} collection and works on any device with nothing to install.",
+        f"Need to {act_l}? {n} does exactly that, straight from your browser. It's part of ToolStack' free {esc(cat)} collection and works on any device with nothing to install.",
         f"{n} makes it simple to {act_l}. Because it runs entirely on your own device, nothing you use is uploaded anywhere — and you can run it as many times as you like, always free.",
     ]
     intro = intros[idx % 3]
@@ -149,12 +149,12 @@ def page(t, up):
 <html lang="en" data-theme="dark">
 <head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{esc(n)} — Free Online Tool | Somar's All Free Tools</title>
+<title>{esc(n)} — Free Online Tool | ToolStack</title>
 <meta name="description" content="{esc(act)}. 100% free, private and fast — {esc(n)} runs in your browser with no signup, no uploads and no limits.">
-<meta name="keywords" content="{esc(n.lower())}, free {esc(n.lower())}, online {esc(n.lower())}, {esc(cat.lower())}, somar's all free tools">
+<meta name="keywords" content="{esc(n.lower())}, free {esc(n.lower())}, online {esc(n.lower())}, {esc(cat.lower())}, toolstack">
 <link rel="canonical" href="{SITE}/tools/{tid}/">
-<meta property="og:site_name" content="Somar's All Free Tools">
-<meta property="og:title" content="{esc(n)} — Somar's All Free Tools"><meta property="og:description" content="{esc(act)}. Free, private, in your browser."><meta property="og:type" content="website"><meta property="og:url" content="{SITE}/tools/{tid}/">
+<meta property="og:site_name" content="ToolStack">
+<meta property="og:title" content="{esc(n)} — ToolStack"><meta property="og:description" content="{esc(act)}. Free, private, in your browser."><meta property="og:type" content="website"><meta property="og:url" content="{SITE}/tools/{tid}/">
 <meta name="twitter:card" content="summary">
 {ICON}{FONTS}
 <link rel="stylesheet" href="{up}css/styles.css">
@@ -180,7 +180,7 @@ def page(t, up):
       <h2>How to use {esc(n)}</h2>
       <ol>{steps}</ol>
       {"<h2>Common uses</h2><ul>" + uses_html + "</ul>" if uses_html else ""}
-      <h2>Why use Somar's All Free Tools?</h2>
+      <h2>Why use ToolStack?</h2>
       <ul>
         <li><b>Free forever</b> — every feature, no hidden paywall or watermark.</li>
         <li><b>Private by design</b> — processing happens on your device, not our servers.</li>
@@ -197,12 +197,12 @@ def page(t, up):
   </div>
 </main>
 <footer class="footer"><div class="footer-inner">
-  <div><strong>Somar's All Free Tools</strong> — 200+ free tools, one place.</div>
+  <div><strong>ToolStack</strong> — 200+ free tools, one place.</div>
   <nav class="footer-links">
     <a href="{up}">Home</a><a href="{up}#/page/about">About</a><a href="{up}#/page/contact">Contact</a>
     <a href="{up}#/page/privacy">Privacy</a><a href="{up}#/page/terms">Terms</a><a href="{up}#/page/disclaimer">Disclaimer</a>
   </nav>
-  <div class="footer-copy">© <span>2026</span> Somar's All Free Tools</div>
+  <div class="footer-copy">© <span>2026</span> ToolStack</div>
 </div></footer>
 {consent_html(up)}
 </body></html>"""
@@ -222,17 +222,17 @@ for c in categories:
     cards += "</div>"
 (tools_dir / "index.html").write_text(f"""<!DOCTYPE html><html lang="en" data-theme="dark"><head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>All {len(ALL)} Free Online Tools — Somar's All Free Tools</title>
-<meta name="description" content="Browse all {len(ALL)} free online tools on Somar's All Free Tools — PDF, image, video, text, converters, calculators, developer, SEO, color and security tools. Free, private, in your browser.">
+<title>All {len(ALL)} Free Online Tools — ToolStack</title>
+<meta name="description" content="Browse all {len(ALL)} free online tools on ToolStack — PDF, image, video, text, converters, calculators, developer, SEO, color and security tools. Free, private, in your browser.">
 <link rel="canonical" href="{SITE}/tools/">{ICON}{FONTS}
 <link rel="stylesheet" href="../css/styles.css"></head><body>
 <header class="topbar"><div class="topbar-inner"><a href="../" class="brand"><span class="brand-icon">🛸</span><span class="brand-name">Master<span class="brand-accent">Tools</span></span></a></div></header>
 <main class="app"><div class="breadcrumb"><a href="../">Home</a> / All tools</div>
 <section class="hero"><h1>All Tools</h1><p>Every one of our {len(ALL)} free, private, in-browser tools — pick one to get started.</p></section>
 {cards}</main>
-<footer class="footer"><div class="footer-inner"><div><strong>Somar's All Free Tools</strong></div>
+<footer class="footer"><div class="footer-inner"><div><strong>ToolStack</strong></div>
 <nav class="footer-links"><a href="../">Home</a><a href="../#/page/about">About</a><a href="../#/page/privacy">Privacy</a><a href="../#/page/terms">Terms</a></nav>
-<div class="footer-copy">© 2026 Somar's All Free Tools</div></div></footer>""" + consent_html("../") + """</body></html>""", encoding="utf-8")
+<div class="footer-copy">© 2026 ToolStack</div></div></footer>""" + consent_html("../") + """</body></html>""", encoding="utf-8")
 
 # sitemap
 urls = [f"{SITE}/", f"{SITE}/tools/"] + [f"{SITE}/tools/{t['id']}/" for t in ALL]
