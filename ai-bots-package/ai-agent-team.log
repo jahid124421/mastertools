@@ -913,3 +913,1383 @@ NameError: name 'time' is not defined. Did you forget to import 'time'
 [2026-07-14 12:25:45] TEAM running roles: ['think']
 [2026-07-14 12:25:48] [think] completed (1251 chars)
 [2026-07-14 12:25:48] [automate] all models failed; synthesizing final answer from team work
+[2026-07-14 18:59:27] TEAM request (model=auto, stream=True)
+[2026-07-14 18:59:28] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 18:59:29] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 18:59:29] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 18:59:30] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 18:59:30] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 18:59:31] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 18:59:31] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 18:59:31] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 18:59:32] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 18:59:32] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 18:59:33] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 18:59:34] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 18:59:35] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 18:59:41] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:00:51] TEAM request (model=auto, stream=True)
+[2026-07-14 19:00:52] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:00:53] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:00:53] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:00:54] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:00:54] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:00:54] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:00:55] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:00:55] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:00:56] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:00:56] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:00:56] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:00:58] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:00:59] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:01:02] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:01:12] TEAM request (model=auto, stream=True)
+[2026-07-14 19:01:14] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:01:14] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:01:15] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:01:15] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:01:15] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:01:16] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:01:16] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:01:16] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:01:17] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:01:17] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:01:18] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:01:19] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:01:20] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:01:23] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:01:53] TEAM request (model=auto, stream=True)
+[2026-07-14 19:01:54] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:01:54] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:01:54] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:01:55] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:01:55] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:01:55] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:01:56] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:01:56] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:01:56] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:01:57] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:01:57] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:01:58] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:01:59] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:02:03] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:02:15] TEAM request (model=auto, stream=True)
+[2026-07-14 19:02:16] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:02:16] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:02:17] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:02:17] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:02:17] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:02:18] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:02:18] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:02:19] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:02:19] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:02:19] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:02:20] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:02:21] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:02:21] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:02:25] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:02:33] TEAM request (model=auto, stream=True)
+[2026-07-14 19:02:34] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:02:34] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:02:35] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:02:35] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:02:36] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:02:36] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:02:36] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:02:37] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:02:37] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:02:37] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:02:38] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:02:39] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:02:39] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:02:42] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:03:21] TEAM request (model=auto, stream=True)
+[2026-07-14 19:03:21] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:03:22] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:03:22] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:03:23] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:03:23] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:03:23] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:03:24] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:03:24] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:03:24] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:03:25] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:03:25] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:03:26] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:03:27] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:03:32] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:03:36] TEAM request (model=auto, stream=True)
+[2026-07-14 19:03:37] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:03:37] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:03:38] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:03:38] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:03:38] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:03:39] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:03:39] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:03:39] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:03:40] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:03:40] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:03:41] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:03:41] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:03:42] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:03:45] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:03:54] TEAM request (model=auto, stream=True)
+[2026-07-14 19:03:55] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:03:55] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:03:56] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:03:56] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:03:56] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:03:57] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:03:57] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:03:57] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:03:58] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:03:58] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:03:59] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:03:59] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:04:00] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:04:03] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:05:44] TEAM request (model=auto, stream=True)
+[2026-07-14 19:05:44] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:05:45] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:05:45] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:05:46] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:05:46] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:05:46] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:05:47] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:05:47] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:05:48] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:05:48] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:05:49] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:05:49] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:05:50] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:05:53] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:05:58] TEAM request (model=auto, stream=True)
+[2026-07-14 19:05:59] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:05:59] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:05:59] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:06:00] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:06:00] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:06:00] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:06:01] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:06:01] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:06:02] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:06:02] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:06:02] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:06:03] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:06:04] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:06:07] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:06:45] TEAM request (model=auto, stream=True)
+[2026-07-14 19:06:45] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:06:46] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:06:46] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:06:47] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:06:47] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:06:47] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:06:48] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:06:48] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:06:49] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:06:49] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:06:49] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:06:50] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:06:51] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:06:55] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:07:11] TEAM request (model=auto, stream=True)
+[2026-07-14 19:07:12] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:07:13] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:07:13] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:07:13] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:07:14] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:07:14] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:07:15] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:07:15] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:07:15] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:07:16] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:07:16] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:07:17] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:07:18] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:07:21] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:07:37] TEAM request (model=auto, stream=True)
+[2026-07-14 19:07:38] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:07:39] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:07:39] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:07:39] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:07:40] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:07:40] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:07:41] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:07:41] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:07:41] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:07:42] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:07:42] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:07:43] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:07:44] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:07:47] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:07:54] TEAM request (model=auto, stream=True)
+[2026-07-14 19:07:55] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:07:55] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:07:56] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:07:56] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:07:56] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:07:57] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:07:57] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:07:58] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:07:58] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:07:58] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:07:59] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:08:00] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:08:00] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:08:04] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:08:23] TEAM request (model=auto, stream=True)
+[2026-07-14 19:08:24] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:08:25] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:08:25] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:08:26] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:08:26] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:08:26] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:08:27] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:08:27] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:08:28] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:08:28] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:08:28] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:08:29] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:08:30] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:08:33] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:08:37] TEAM request (model=auto, stream=True)
+[2026-07-14 19:08:37] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:08:38] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:08:38] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:08:39] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:08:39] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:08:39] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:08:40] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:08:40] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:08:41] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:08:41] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:08:41] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:08:42] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:08:43] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:08:46] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:08:57] TEAM request (model=auto, stream=True)
+[2026-07-14 19:08:57] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:08:58] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:08:58] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:08:59] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:08:59] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:09:00] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:09:00] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:09:00] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:09:01] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:09:01] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:09:02] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:09:02] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:09:04] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:09:07] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:09:12] TEAM request (model=auto, stream=True)
+[2026-07-14 19:09:13] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:09:13] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:09:14] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:09:14] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:09:14] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:09:15] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:09:15] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:09:16] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:09:16] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:09:16] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:09:17] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:09:17] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:09:18] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:09:23] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:09:33] TEAM request (model=auto, stream=True)
+[2026-07-14 19:09:33] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:09:34] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:09:34] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:09:34] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:09:35] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:09:35] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:09:35] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:09:36] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:09:36] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:09:37] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:09:37] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:09:38] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:09:38] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:09:42] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:10:00] TEAM request (model=auto, stream=True)
+[2026-07-14 19:10:01] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:10:01] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:10:02] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:10:02] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:10:02] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:10:03] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:10:03] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:10:03] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:10:04] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:10:04] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:10:05] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:10:05] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:10:06] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:10:10] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:10:18] TEAM request (model=auto, stream=True)
+[2026-07-14 19:10:19] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:10:19] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:10:20] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:10:20] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:10:21] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:10:21] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:10:22] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:10:22] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:10:22] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:10:23] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:10:23] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:10:24] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:10:25] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:10:28] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:10:46] TEAM request (model=auto, stream=True)
+[2026-07-14 19:10:47] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:10:48] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:10:48] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:10:48] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:10:49] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:10:49] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:10:49] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:10:50] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:10:50] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:10:51] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:10:51] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:10:52] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:10:53] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:10:55] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:11:04] TEAM request (model=auto, stream=True)
+[2026-07-14 19:11:05] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:11:05] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:11:06] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:11:06] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:11:07] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:11:07] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:11:07] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:11:08] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:11:08] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:11:09] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:11:09] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:11:10] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:11:10] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:11:21] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:11:48] TEAM request (model=auto, stream=True)
+[2026-07-14 19:11:49] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:11:49] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:11:50] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:11:50] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:11:51] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:11:51] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:11:51] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:11:52] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:11:52] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:11:53] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:11:53] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:11:54] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:11:55] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:11:58] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:12:03] TEAM request (model=auto, stream=True)
+[2026-07-14 19:12:04] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:12:04] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:12:04] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:12:05] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:12:05] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:12:05] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:12:06] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:12:06] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:12:07] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:12:07] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:12:07] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:12:08] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:12:09] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:12:12] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:12:19] TEAM request (model=auto, stream=True)
+[2026-07-14 19:12:20] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:12:20] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:12:21] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:12:21] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:12:21] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:12:22] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:12:22] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:12:23] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:12:23] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:12:23] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:12:24] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:12:24] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:12:25] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:12:28] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:12:33] TEAM request (model=auto, stream=True)
+[2026-07-14 19:12:35] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:12:36] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:12:36] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:12:36] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:12:37] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:12:37] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:12:37] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:12:38] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:12:38] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:12:39] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:12:39] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:12:40] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:12:40] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:12:51] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:13:12] TEAM request (model=auto, stream=True)
+[2026-07-14 19:13:13] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:13:13] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:13:14] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:13:14] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:13:15] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:13:15] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:13:16] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:13:16] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:13:16] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:13:17] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:13:17] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:13:18] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:13:19] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:13:22] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:13:34] TEAM request (model=auto, stream=True)
+[2026-07-14 19:13:35] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:13:36] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:13:36] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:13:37] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:13:37] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:13:37] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:13:38] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:13:38] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:13:39] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:13:39] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:13:39] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:13:40] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:13:41] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:13:44] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:13:56] TEAM request (model=auto, stream=True)
+[2026-07-14 19:13:58] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:13:59] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:13:59] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:14:00] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:14:00] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:14:00] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:14:01] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:14:01] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:14:02] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:14:02] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:14:03] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:14:03] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:14:04] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:14:15] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:15:44] TEAM request (model=auto, stream=True)
+[2026-07-14 19:15:44] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:15:45] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:15:45] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:15:46] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:15:46] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:15:47] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:15:47] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:15:47] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:15:48] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:15:48] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:15:49] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:15:49] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:15:50] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:15:54] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:16:22] TEAM request (model=auto, stream=True)
+[2026-07-14 19:16:23] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:16:23] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:16:24] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:16:24] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:16:25] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:16:25] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:16:25] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:16:26] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:16:26] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:16:27] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:16:27] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:16:28] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:16:29] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:16:31] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:18:56] TEAM request (model=auto, stream=True)
+[2026-07-14 19:18:58] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:18:58] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:18:59] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:18:59] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:19:00] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:19:00] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:19:00] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:19:01] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:19:01] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:19:02] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:19:02] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:19:04] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:19:05] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:19:11] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:23:47] TEAM request (model=auto, stream=True)
+[2026-07-14 19:23:49] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:23:49] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:23:49] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:23:50] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:23:50] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:23:51] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:23:51] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:23:52] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:23:52] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:23:52] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:23:53] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:23:54] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:23:55] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:23:58] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:25:40] TEAM request (model=auto, stream=True)
+[2026-07-14 19:25:41] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:25:41] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:25:42] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:25:42] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:25:43] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:25:43] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:25:44] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:25:44] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:25:45] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:25:45] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:25:46] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:25:48] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:25:49] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:25:52] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:26:00] TEAM request (model=auto, stream=True)
+[2026-07-14 19:26:01] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:26:02] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:26:02] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:26:03] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:26:03] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:26:03] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:26:04] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:26:04] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:26:05] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:26:05] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:26:06] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:26:06] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:26:07] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:26:11] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:26:21] TEAM request (model=auto, stream=True)
+[2026-07-14 19:26:22] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:26:22] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:26:23] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:26:23] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:26:23] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:26:24] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:26:24] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:26:25] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:26:25] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:26:25] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:26:26] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:26:26] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:26:27] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:26:30] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:26:42] TEAM request (model=auto, stream=True)
+[2026-07-14 19:26:43] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:26:43] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:26:43] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:26:44] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:26:44] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:26:45] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:26:45] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:26:45] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:26:46] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:26:46] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:26:47] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:26:47] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:26:48] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:26:51] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:26:58] TEAM request (model=auto, stream=True)
+[2026-07-14 19:26:59] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:26:59] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:27:00] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:27:00] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:27:01] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:27:01] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:27:02] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:27:02] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:27:02] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:27:03] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:27:03] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:27:04] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:27:04] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:27:09] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:27:24] TEAM request (model=auto, stream=True)
+[2026-07-14 19:27:24] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:27:25] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:27:25] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:27:26] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:27:26] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:27:26] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:27:27] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:27:27] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:27:28] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:27:28] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:27:28] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:27:29] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:27:30] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:27:34] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:27:56] TEAM request (model=auto, stream=True)
+[2026-07-14 19:27:56] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:27:57] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:27:57] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:27:58] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:27:58] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:27:58] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:27:59] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:27:59] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:28:00] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:28:00] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:28:01] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:28:01] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:28:02] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:28:05] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:28:15] TEAM request (model=auto, stream=True)
+[2026-07-14 19:28:16] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:28:16] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:28:17] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:28:17] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:28:17] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:28:18] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:28:18] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:28:18] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:28:19] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:28:19] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:28:20] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:28:20] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:28:21] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:28:24] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:28:36] TEAM request (model=auto, stream=True)
+[2026-07-14 19:28:37] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:28:37] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:28:37] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:28:38] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:28:38] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:28:39] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:28:39] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:28:40] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:28:40] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:28:40] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:28:41] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:28:41] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:28:42] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:28:45] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:28:57] TEAM request (model=auto, stream=True)
+[2026-07-14 19:28:58] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:28:58] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:28:59] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:28:59] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:29:00] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:29:00] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:29:01] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:29:01] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:29:02] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:29:02] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:29:02] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:29:03] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:29:04] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:29:07] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:29:15] TEAM request (model=auto, stream=True)
+[2026-07-14 19:29:16] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:29:16] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:29:17] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:29:17] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:29:18] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:29:18] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:29:19] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:29:19] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:29:20] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:29:20] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:29:20] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:29:21] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:29:22] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:29:25] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:29:31] TEAM request (model=auto, stream=True)
+[2026-07-14 19:29:32] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:29:32] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:29:32] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:29:33] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:29:33] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:29:34] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:29:34] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:29:34] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:29:35] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:29:35] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:29:36] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:29:36] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:29:37] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:29:40] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:29:46] TEAM request (model=auto, stream=True)
+[2026-07-14 19:29:47] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:29:47] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:29:47] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:29:48] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:29:48] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:29:49] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:29:49] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:29:50] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:29:50] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:29:50] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:29:51] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:29:52] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:29:52] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:29:56] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:30:03] TEAM request (model=auto, stream=True)
+[2026-07-14 19:30:04] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:30:04] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:30:05] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:30:05] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:30:06] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:30:06] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:30:07] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:30:07] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:30:08] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:30:08] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:30:08] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:30:09] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:30:10] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:30:13] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:30:20] TEAM request (model=auto, stream=True)
+[2026-07-14 19:30:21] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:30:21] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:30:21] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:30:22] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:30:22] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:30:23] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:30:23] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:30:24] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:30:24] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:30:24] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:30:25] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:30:26] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:30:26] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:30:30] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:30:34] TEAM request (model=auto, stream=True)
+[2026-07-14 19:30:35] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:30:35] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:30:35] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:30:36] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:30:36] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:30:37] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:30:37] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:30:37] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:30:38] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:30:38] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:30:39] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:30:39] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:30:40] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:30:43] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:30:48] TEAM request (model=auto, stream=True)
+[2026-07-14 19:30:49] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:30:50] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:30:50] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:30:51] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:30:51] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:30:52] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:30:52] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:30:53] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:30:53] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:30:53] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:30:54] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:30:55] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:30:55] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:30:58] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:31:04] TEAM request (model=auto, stream=True)
+[2026-07-14 19:31:05] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:31:06] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:31:06] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:31:07] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:31:07] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:31:07] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:31:08] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:31:08] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:31:09] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:31:09] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:31:09] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:31:10] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:31:11] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:31:14] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:31:19] TEAM request (model=auto, stream=True)
+[2026-07-14 19:31:19] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:31:20] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:31:20] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:31:21] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:31:21] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:31:21] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:31:22] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:31:22] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:31:23] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:31:23] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:31:23] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:31:24] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:31:25] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:31:28] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:31:33] TEAM request (model=auto, stream=True)
+[2026-07-14 19:31:34] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:31:34] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:31:35] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:31:35] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:31:35] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:31:36] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:31:36] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:31:37] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:31:37] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:31:37] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:31:38] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:31:38] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:31:39] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:31:42] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:31:58] TEAM request (model=auto, stream=True)
+[2026-07-14 19:31:59] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:31:59] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:32:00] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:32:00] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:32:01] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:32:01] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:32:01] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:32:02] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:32:02] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:32:03] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:32:03] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:32:04] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:32:04] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:32:08] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:32:42] TEAM request (model=auto, stream=True)
+[2026-07-14 19:32:43] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:32:44] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:32:44] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:32:44] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:32:45] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:32:45] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:32:46] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:32:46] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:32:46] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:32:47] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:32:47] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:32:48] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:32:49] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:32:52] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:32:55] TEAM request (model=auto, stream=True)
+[2026-07-14 19:32:56] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:32:56] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:32:57] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:32:57] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:32:58] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:32:58] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:32:59] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:32:59] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:32:59] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:33:00] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:33:00] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:33:01] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:33:02] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:33:04] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:33:27] TEAM request (model=auto, stream=True)
+[2026-07-14 19:33:28] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:33:29] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:33:29] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:33:30] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:33:30] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:33:31] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:33:31] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:33:32] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:33:32] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:33:32] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:33:33] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:33:34] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:33:34] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:33:37] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:33:44] TEAM request (model=auto, stream=True)
+[2026-07-14 19:33:45] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:33:46] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:33:46] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:33:47] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:33:47] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:33:47] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:33:48] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:33:48] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:33:49] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:33:49] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:33:49] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:33:50] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:33:51] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:33:54] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:34:01] TEAM request (model=auto, stream=True)
+[2026-07-14 19:34:03] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:34:03] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:34:04] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:34:04] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:34:05] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:34:05] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:34:06] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:34:06] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:34:06] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:34:07] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:34:07] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:34:08] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:34:09] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:34:12] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:34:22] TEAM request (model=auto, stream=True)
+[2026-07-14 19:34:23] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:34:23] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:34:24] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:34:24] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:34:25] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:34:25] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:34:26] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:34:26] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:34:27] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:34:27] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:34:27] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:34:28] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:34:29] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:34:33] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:34:57] TEAM request (model=auto, stream=True)
+[2026-07-14 19:34:58] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:34:58] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:34:59] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:34:59] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:34:59] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:35:00] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:35:00] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:35:01] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:35:01] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:35:01] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:35:02] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:35:03] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:35:03] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:35:08] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:35:35] TEAM request (model=auto, stream=True)
+[2026-07-14 19:35:36] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:35:36] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:35:37] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:35:37] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:35:38] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:35:38] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:35:38] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:35:39] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:35:39] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:35:40] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:35:40] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:35:41] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:35:41] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:35:45] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:36:00] TEAM request (model=auto, stream=True)
+[2026-07-14 19:36:02] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:36:02] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:36:02] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:36:03] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:36:03] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:36:04] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:36:04] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:36:04] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:36:05] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:36:05] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:36:06] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:36:07] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:36:08] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:36:11] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:36:20] TEAM request (model=auto, stream=True)
+[2026-07-14 19:36:21] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:36:22] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:36:22] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:36:23] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:36:23] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:36:23] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:36:24] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:36:24] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:36:25] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:36:25] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:36:26] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:36:26] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:36:27] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:36:30] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:36:42] TEAM request (model=auto, stream=True)
+[2026-07-14 19:36:43] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:36:43] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:36:44] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:36:44] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:36:45] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:36:45] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:36:45] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:36:46] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:36:46] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:36:47] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:36:47] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:36:48] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:36:49] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:36:52] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:37:05] TEAM request (model=auto, stream=True)
+[2026-07-14 19:37:06] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:37:06] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:37:06] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:37:07] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:37:07] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:37:08] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:37:08] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:37:08] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:37:09] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:37:09] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:37:10] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:37:10] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:37:11] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:37:14] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:37:20] TEAM request (model=auto, stream=True)
+[2026-07-14 19:37:20] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:37:21] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:37:21] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:37:22] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:37:22] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:37:22] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:37:23] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:37:23] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:37:24] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:37:24] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:37:24] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:37:25] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:37:26] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:37:36] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:38:34] TEAM request (model=auto, stream=True)
+[2026-07-14 19:38:35] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:38:35] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:38:36] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:38:36] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:38:36] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:38:37] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:38:37] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:38:38] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:38:38] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:38:39] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:38:39] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:38:40] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:38:40] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:38:44] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:39:16] TEAM request (model=auto, stream=True)
+[2026-07-14 19:39:17] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:39:17] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:39:18] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:39:18] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:39:18] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:39:19] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:39:19] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:39:20] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:39:20] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:39:20] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:39:21] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:39:22] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:39:23] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:39:26] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:39:33] TEAM request (model=auto, stream=True)
+[2026-07-14 19:39:34] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:39:35] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:39:35] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:39:35] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:39:36] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:39:36] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:39:37] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:39:37] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:39:38] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:39:38] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:39:39] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:39:40] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:39:41] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:39:44] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:39:53] TEAM request (model=auto, stream=True)
+[2026-07-14 19:39:53] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:39:54] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:39:54] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:39:55] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:39:55] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:39:56] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:39:56] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:39:56] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:39:57] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:39:57] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:39:58] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:39:59] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:40:00] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:40:03] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:40:24] TEAM request (model=auto, stream=True)
+[2026-07-14 19:40:25] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:40:26] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:40:26] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:40:27] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:40:27] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:40:28] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:40:28] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:40:29] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:40:29] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:40:29] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:40:30] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:40:31] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:40:32] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:40:35] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:40:42] TEAM request (model=auto, stream=True)
+[2026-07-14 19:40:42] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:40:43] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:40:43] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:40:44] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:40:44] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:40:45] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:40:45] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:40:46] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:40:46] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:40:46] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:40:47] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:40:48] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:40:49] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:41:00] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:41:19] TEAM request (model=auto, stream=True)
+[2026-07-14 19:41:20] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:41:21] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:41:21] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:41:22] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:41:22] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:41:23] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:41:23] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:41:23] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:41:24] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:41:24] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:41:25] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:41:26] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:41:27] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:41:30] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:41:38] TEAM request (model=auto, stream=True)
+[2026-07-14 19:41:39] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:41:40] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:41:40] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:41:40] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:41:41] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:41:41] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:41:42] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:41:42] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:41:42] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:41:43] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:41:43] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:41:45] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:41:45] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:41:49] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:41:59] TEAM request (model=auto, stream=True)
+[2026-07-14 19:42:00] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:42:00] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:42:00] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:42:01] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:42:01] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:42:02] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:42:02] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:42:03] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:42:03] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:42:03] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:42:04] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:42:04] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:42:05] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:42:08] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:42:14] TEAM request (model=auto, stream=True)
+[2026-07-14 19:42:15] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:42:16] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:42:16] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:42:17] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:42:17] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:42:17] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:42:18] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:42:18] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:42:19] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:42:19] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:42:19] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:42:20] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:42:21] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:42:25] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:42:55] TEAM request (model=auto, stream=True)
+[2026-07-14 19:42:58] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:42:58] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:42:58] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:42:59] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:42:59] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:43:00] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:43:00] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:43:00] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:43:01] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:43:01] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:43:01] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:43:03] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:43:04] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:43:09] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:50:52] TEAM request (model=auto, stream=True)
+[2026-07-14 19:50:54] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:50:55] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:50:55] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:50:56] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:50:56] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:50:57] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:50:57] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:50:58] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:50:58] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:50:59] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:50:59] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:51:00] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:51:02] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:51:13] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:51:43] TEAM request (model=auto, stream=True)
+[2026-07-14 19:51:45] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:51:46] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:51:47] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:51:48] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:51:49] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:51:50] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:51:51] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:51:52] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:51:53] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:51:54] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:51:54] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:51:56] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:51:58] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:52:08] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:53:35] TEAM request (model=auto, stream=True)
+[2026-07-14 19:53:38] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:53:38] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:53:39] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:53:40] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:53:41] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:53:42] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:53:43] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:53:44] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:53:44] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:53:45] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:53:46] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:53:48] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:53:49] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:53:58] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:54:08] TEAM request (model=auto, stream=True)
+[2026-07-14 19:54:10] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:54:10] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:54:11] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:54:12] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:54:13] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:54:14] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:54:15] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:54:15] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:54:16] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:54:17] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:54:18] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:54:19] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:54:20] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:54:24] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:54:34] TEAM request (model=auto, stream=True)
+[2026-07-14 19:54:35] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:54:36] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:54:37] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:54:38] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:54:38] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:54:39] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:54:40] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:54:41] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:54:42] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:54:42] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:54:43] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:54:44] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:54:46] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:54:53] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:55:12] TEAM request (model=auto, stream=True)
+[2026-07-14 19:55:14] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:55:14] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:55:15] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:55:16] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:55:17] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:55:18] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:55:19] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:55:19] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:55:20] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:55:21] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:55:22] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:55:24] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:55:26] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:55:30] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:56:03] TEAM request (model=auto, stream=True)
+[2026-07-14 19:56:05] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:56:06] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:56:07] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:56:08] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:56:08] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:56:09] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:56:10] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:56:11] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:56:12] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:56:13] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:56:14] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:56:16] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:56:17] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:56:25] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:56:37] TEAM request (model=auto, stream=True)
+[2026-07-14 19:56:38] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:56:39] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:56:39] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:56:40] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:56:41] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:56:42] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:56:43] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:56:44] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:56:44] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:56:45] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:56:46] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:56:47] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:56:48] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:56:52] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:57:02] TEAM request (model=auto, stream=True)
+[2026-07-14 19:57:04] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:57:05] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:57:06] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:57:07] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:57:08] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:57:09] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:57:10] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:57:11] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:57:12] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:57:13] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:57:14] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:57:15] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:57:16] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:57:20] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:57:30] TEAM request (model=auto, stream=True)
+[2026-07-14 19:57:31] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:57:32] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:57:33] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:57:34] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:57:35] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:57:36] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:57:37] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:57:37] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:57:38] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:57:39] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:57:40] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:57:41] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:57:42] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:57:45] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:58:04] TEAM request (model=auto, stream=True)
+[2026-07-14 19:58:06] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:58:07] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:58:08] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:58:08] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:58:09] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:58:10] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:58:11] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:58:12] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:58:12] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:58:13] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:58:14] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:58:15] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:58:17] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:58:20] [passthrough] served via tencent/hy3:free
+[2026-07-14 19:58:30] TEAM request (model=auto, stream=True)
+[2026-07-14 19:58:32] [passthrough] gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:58:32] [passthrough] meta-llama/llama-4-scout-17b-16e-instruct failed: HTTP 400
+[2026-07-14 19:58:33] [passthrough] openai/gpt-oss-20b failed: HTTP 400
+[2026-07-14 19:58:34] [passthrough] groq/compound-mini failed: HTTP 400
+[2026-07-14 19:58:35] [passthrough] llama-3.3-70b-versatile failed: HTTP 400
+[2026-07-14 19:58:36] [passthrough] llama-3.1-8b-instant failed: HTTP 400
+[2026-07-14 19:58:36] [passthrough] openai/gpt-oss-120b failed: HTTP 400
+[2026-07-14 19:58:37] [passthrough] allam-2-7b failed: HTTP 400
+[2026-07-14 19:58:38] [passthrough] qwen/qwen3.6-27b failed: HTTP 400
+[2026-07-14 19:58:39] [passthrough] qwen/qwen3-32b failed: HTTP 400
+[2026-07-14 19:58:39] [passthrough] groq/compound failed: HTTP 400
+[2026-07-14 19:58:41] [passthrough] gemma-4-31b failed: HTTP 400
+[2026-07-14 19:58:42] [passthrough] zai-glm-4.7 failed: HTTP 400
+[2026-07-14 19:58:46] [passthrough] served via tencent/hy3:free
