@@ -1,0 +1,4 @@
+# ads.txt for Somar's All Free Tools
+# After your AdSense account is approved, replace pub-XXXXXXXXXXXXXXXX with your
+# real publisher ID (found in AdSense > Account > Settings > Account information).
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0

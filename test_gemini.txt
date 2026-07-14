@@ -1,0 +1,4 @@
+GEMINI: 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota,

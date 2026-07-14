@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# When you connect a custom domain, change this line to your domain.
+Sitemap: https://mastertools-501.pages.dev/sitemap.xml

@@ -1,0 +1,849 @@
+[2026-07-13 01:18:33] ============================================================
+[2026-07-13 01:18:33] STARTING FREE MULTI-AGENT TEAM
+[2026-07-13 01:18:33] Log: c:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-13 01:18:33] OpenRouter key present: yes
+[2026-07-13 01:18:33] Roles:
+[2026-07-13 01:18:33]   think      -> nousresearch/hermes-3-llama-3.1-405b:free
+[2026-07-13 01:18:33]   coding     -> qwen/qwen3-coder:free
+[2026-07-13 01:18:33]   multitask  -> nvidia/nemotron-3-super-120b-a12b:free
+[2026-07-13 01:18:33]   fetch      -> openai/gpt-oss-20b:free
+[2026-07-13 01:18:33]   automate   -> meta-llama/llama-3.3-70b-instruct:free
+[2026-07-13 01:19:33] TEAM request (model=auto, stream=False)
+[2026-07-13 01:19:36] [planner] error: nousresearch/hermes-3-llama-3.1-405b:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"nousresearch/hermes-3-llama-3.1-405b:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice", -> fallback plan
+[2026-07-13 01:19:36] TEAM running roles: ['think', 'multitask', 'automate']
+[2026-07-13 01:19:37] [think] error: nousresearch/hermes-3-llama-3.1-405b:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"nousresearch/hermes-3-llama-3.1-405b:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice",
+[2026-07-13 01:19:49] [multitask] completed (4267 chars)
+[2026-07-13 01:19:51] [automate] error: meta-llama/llama-3.3-70b-instruct:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"meta-llama/llama-3.3-70b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice","is
+[2026-07-13 01:20:22] ============================================================
+[2026-07-13 01:20:22] STARTING FREE MULTI-AGENT TEAM
+[2026-07-13 01:20:22] Log: c:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-13 01:20:22] OpenRouter key present: yes
+[2026-07-13 01:20:22] Roles:
+[2026-07-13 01:20:22]   think      -> nousresearch/hermes-3-llama-3.1-405b:free
+[2026-07-13 01:20:22]   coding     -> qwen/qwen3-coder:free
+[2026-07-13 01:20:22]   multitask  -> nvidia/nemotron-3-super-120b-a12b:free
+[2026-07-13 01:20:22]   fetch      -> openai/gpt-oss-20b:free
+[2026-07-13 01:20:22]   automate   -> meta-llama/llama-3.3-70b-instruct:free
+[2026-07-13 01:21:05] TEAM request (model=auto, stream=False)
+[2026-07-13 01:21:07] [planner] error: nousresearch/hermes-3-llama-3.1-405b:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"nousresearch/hermes-3-llama-3.1-405b:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice", -> fallback plan
+[2026-07-13 01:21:07] TEAM running roles: ['think', 'multitask', 'automate']
+[2026-07-13 01:21:08] [think] error: nousresearch/hermes-3-llama-3.1-405b:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"nousresearch/hermes-3-llama-3.1-405b:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice",
+[2026-07-13 01:21:12] [multitask] completed (1168 chars)
+[2026-07-13 01:21:14] [automate] error: meta-llama/llama-3.3-70b-instruct:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"meta-llama/llama-3.3-70b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice","is
+[2026-07-13 01:21:14] [automate] primary failed, trying fallback model for final answer
+[2026-07-13 01:21:20] [automate] fallback nvidia/nemotron-3-super-120b-a12b:free produced final answer
+[2026-07-13 01:21:32] TEAM request (model=auto, stream=False)
+[2026-07-13 01:21:33] [planner] error: nousresearch/hermes-3-llama-3.1-405b:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"nousresearch/hermes-3-llama-3.1-405b:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice", -> fallback plan
+[2026-07-13 01:21:33] TEAM running roles: ['think', 'multitask', 'automate']
+[2026-07-13 01:21:35] [think] error: nousresearch/hermes-3-llama-3.1-405b:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"nousresearch/hermes-3-llama-3.1-405b:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice",
+[2026-07-13 01:21:40] [multitask] completed (2268 chars)
+[2026-07-13 01:21:41] [automate] error: meta-llama/llama-3.3-70b-instruct:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"meta-llama/llama-3.3-70b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice","is
+[2026-07-13 01:21:41] [automate] primary failed, trying fallback model for final answer
+[2026-07-13 01:21:46] [automate] fallback nvidia/nemotron-3-super-120b-a12b:free produced final answer
+[2026-07-13 01:22:38] ============================================================
+[2026-07-13 01:22:38] STARTING FREE MULTI-AGENT TEAM
+[2026-07-13 01:22:38] Log: c:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-13 01:22:38] OpenRouter key present: yes
+[2026-07-13 01:22:38] Roles:
+[2026-07-13 01:22:38]   think      -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-13 01:22:38]   coding     -> qwen/qwen3-coder:free
+[2026-07-13 01:22:38]   multitask  -> openai/gpt-oss-120b:free
+[2026-07-13 01:22:38]   fetch      -> openai/gpt-oss-20b:free
+[2026-07-13 01:22:38]   automate   -> meta-llama/llama-3.2-3b-instruct:free
+[2026-07-13 01:23:19] TEAM request (model=auto, stream=False)
+[2026-07-13 01:23:20] [planner] error: qwen/qwen3-next-80b-a3b-instruct:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"qwen/qwen3-next-80b-a3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice","is_ -> fallback plan
+[2026-07-13 01:23:20] TEAM running roles: ['think', 'multitask', 'automate']
+[2026-07-13 01:23:22] [think] error: qwen/qwen3-next-80b-a3b-instruct:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"qwen/qwen3-next-80b-a3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice","is_
+[2026-07-13 01:23:55] [multitask] completed (2656 chars)
+[2026-07-13 01:23:56] [automate] error: meta-llama/llama-3.2-3b-instruct:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"meta-llama/llama-3.2-3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice","is_
+[2026-07-13 01:23:56] [automate] primary failed, trying fallback model for final answer
+[2026-07-13 01:24:01] [automate] fallback nvidia/nemotron-3-super-120b-a12b:free produced final answer
+[2026-07-13 01:30:17] [discover] found 23 free models on OpenRouter
+[2026-07-13 01:30:17] [discover] fallback pool size per role: 22
+[2026-07-13 01:30:17] ============================================================
+[2026-07-13 01:30:17] STARTING FREE MULTI-AGENT TEAM
+[2026-07-13 01:30:17] Log: c:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-13 01:30:17] OpenRouter keys loaded: 1
+[2026-07-13 01:30:17] Roles:
+[2026-07-13 01:30:17]   think      -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-13 01:30:17]   coding     -> qwen/qwen3-coder:free
+[2026-07-13 01:30:17]   multitask  -> openai/gpt-oss-120b:free
+[2026-07-13 01:30:17]   fetch      -> openai/gpt-oss-20b:free
+[2026-07-13 01:30:17]   automate   -> meta-llama/llama-3.2-3b-instruct:free
+[2026-07-13 01:30:59] TEAM request (model=auto, stream=False)
+[2026-07-13 01:31:01] [think] primary qwen/qwen3-next-80b-a3b-instruct:free failed (qwen/qwen3-next-80b-a3b-instruct:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"qwen/qwen3-next-80b-a3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice","is_); trying alternatives
+[2026-07-13 01:31:07] [think] recovered via fallback tencent/hy3:free
+[2026-07-13 01:31:07] [planner] plan roles: ['think', 'coding', 'automate']
+[2026-07-13 01:31:07] TEAM running roles: ['think', 'coding', 'automate']
+[2026-07-13 01:31:08] [think] primary qwen/qwen3-next-80b-a3b-instruct:free failed (qwen/qwen3-next-80b-a3b-instruct:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"qwen/qwen3-next-80b-a3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice","is_); trying alternatives
+[2026-07-13 01:31:29] [think] recovered via fallback tencent/hy3:free
+[2026-07-13 01:31:29] [think] completed (2345 chars)
+[2026-07-13 01:31:31] [coding] primary qwen/qwen3-coder:free failed (qwen/qwen3-coder:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"qwen/qwen3-coder:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice","is_byok":false,"ret); trying alternatives
+[2026-07-13 01:32:08] [coding] recovered via fallback tencent/hy3:free
+[2026-07-13 01:32:08] [coding] completed (2492 chars)
+[2026-07-13 01:32:10] [automate] primary meta-llama/llama-3.2-3b-instruct:free failed (meta-llama/llama-3.2-3b-instruct:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"meta-llama/llama-3.2-3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice","is_); trying alternatives
+[2026-07-13 01:32:29] [automate] recovered via fallback tencent/hy3:free
+[2026-07-13 01:32:29] [automate] completed (333 chars)
+[2026-07-13 01:40:17] [discover] found 23 free models on OpenRouter
+[2026-07-13 01:40:17] [discover] fallback pool size per role: 22
+[2026-07-13 01:40:17] ============================================================
+[2026-07-13 01:40:17] STARTING FREE MULTI-AGENT TEAM
+[2026-07-13 01:40:17] Log: c:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-13 01:40:17] OpenRouter keys loaded: 1
+[2026-07-13 01:40:17] Roles:
+[2026-07-13 01:40:17]   think      -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-13 01:40:17]   coding     -> qwen/qwen3-coder:free
+[2026-07-13 01:40:17]   multitask  -> openai/gpt-oss-120b:free
+[2026-07-13 01:40:17]   fetch      -> openai/gpt-oss-20b:free
+[2026-07-13 01:40:17]   automate   -> meta-llama/llama-3.2-3b-instruct:free
+[2026-07-13 04:02:53] [discover] found 23 free models on OpenRouter
+[2026-07-13 04:02:53] [discover] fallback pool size per role: 22
+[2026-07-13 04:02:53] ============================================================
+[2026-07-13 04:02:53] STARTING FREE MULTI-AGENT TEAM
+[2026-07-13 04:02:53] Log: c:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-13 04:02:53] OpenRouter keys loaded: 1
+[2026-07-13 04:02:53] Roles:
+[2026-07-13 04:02:53]   think      -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-13 04:02:53]   coding     -> qwen/qwen3-coder:free
+[2026-07-13 04:02:53]   multitask  -> openai/gpt-oss-120b:free
+[2026-07-13 04:02:53]   fetch      -> openai/gpt-oss-20b:free
+[2026-07-13 04:02:53]   automate   -> meta-llama/llama-3.2-3b-instruct:free
+[2026-07-13 04:12:14] [discover] found 23 free models on OpenRouter
+[2026-07-13 04:12:14] [discover] fallback pool size per role: 22
+[2026-07-13 04:12:14] ============================================================
+[2026-07-13 04:12:14] STARTING FREE MULTI-AGENT TEAM
+[2026-07-13 04:12:14] Log: c:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-13 04:12:14] OpenRouter keys loaded: 1
+[2026-07-13 04:12:14] Roles:
+[2026-07-13 04:12:14]   think      -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-13 04:12:14]   coding     -> qwen/qwen3-coder:free
+[2026-07-13 04:12:14]   multitask  -> openai/gpt-oss-120b:free
+[2026-07-13 04:12:14]   fetch      -> openai/gpt-oss-20b:free
+[2026-07-13 04:12:14]   automate   -> meta-llama/llama-3.2-3b-instruct:free
+[2026-07-13 04:16:02] [discover] found 23 free models on OpenRouter
+[2026-07-13 04:16:02] [discover] fallback pool size per role: 22
+[2026-07-13 04:16:02] ============================================================
+[2026-07-13 04:16:02] STARTING FREE MULTI-AGENT TEAM
+[2026-07-13 04:16:02] Log: c:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-13 04:16:02] OpenRouter keys loaded: 1
+[2026-07-13 04:16:02] Roles:
+[2026-07-13 04:16:02]   think      -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-13 04:16:02]   coding     -> qwen/qwen3-coder:free
+[2026-07-13 04:16:02]   multitask  -> openai/gpt-oss-120b:free
+[2026-07-13 04:16:02]   fetch      -> openai/gpt-oss-20b:free
+[2026-07-13 04:16:02]   automate   -> meta-llama/llama-3.2-3b-instruct:free
+[2026-07-13 10:37:14] [discover] found 23 free models on OpenRouter
+[2026-07-13 10:37:14] [discover] fallback pool size per role: 22
+[2026-07-13 10:37:14] ============================================================
+[2026-07-13 10:37:14] STARTING FREE MULTI-AGENT TEAM
+[2026-07-13 10:37:14] Log: C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-13 10:37:14] OpenRouter keys loaded: 1
+[2026-07-13 10:37:14] Roles:
+[2026-07-13 10:37:14]   think      -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-13 10:37:14]   coding     -> qwen/qwen3-coder:free
+[2026-07-13 10:37:14]   multitask  -> openai/gpt-oss-120b:free
+[2026-07-13 10:37:14]   fetch      -> openai/gpt-oss-20b:free
+[2026-07-13 10:37:14]   automate   -> meta-llama/llama-3.2-3b-instruct:free
+[2026-07-13 10:44:23] [discover] found 23 free models on OpenRouter
+[2026-07-13 10:44:23] [discover] fallback pool size per role: 22
+[2026-07-13 10:44:23] ============================================================
+[2026-07-13 10:44:23] STARTING FREE MULTI-AGENT TEAM
+[2026-07-13 10:44:23] Log: c:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-13 10:44:23] OpenRouter keys loaded: 1
+[2026-07-13 10:44:23] Roles:
+[2026-07-13 10:44:23]   think      -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-13 10:44:23]   coding     -> qwen/qwen3-coder:free
+[2026-07-13 10:44:23]   multitask  -> openai/gpt-oss-120b:free
+[2026-07-13 10:44:23]   fetch      -> openai/gpt-oss-20b:free
+[2026-07-13 10:44:23]   automate   -> meta-llama/llama-3.2-3b-instruct:free
+[2026-07-13 10:45:58] [discover] found 23 free models on OpenRouter
+[2026-07-13 10:45:58] [discover] fallback pool size per role: 22
+[2026-07-13 10:45:58] ============================================================
+[2026-07-13 10:45:58] STARTING FREE MULTI-AGENT TEAM
+[2026-07-13 10:45:58] Log: C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-13 10:45:58] OpenRouter keys loaded: 1
+[2026-07-13 10:45:58] Roles:
+[2026-07-13 10:45:58]   think      -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-13 10:45:58]   coding     -> qwen/qwen3-coder:free
+[2026-07-13 10:45:58]   multitask  -> openai/gpt-oss-120b:free
+[2026-07-13 10:45:58]   fetch      -> openai/gpt-oss-20b:free
+[2026-07-13 10:45:58]   automate   -> meta-llama/llama-3.2-3b-instruct:free
+[2026-07-13 10:47:51] [discover] found 23 free models on OpenRouter
+[2026-07-13 10:47:51] [discover] fallback pool size per role: 22
+[2026-07-13 10:47:51] ============================================================
+[2026-07-13 10:47:51] STARTING FREE MULTI-AGENT TEAM
+[2026-07-13 10:47:51] Log: C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-13 10:47:51] OpenRouter keys loaded: 1
+[2026-07-13 10:47:51] Roles:
+[2026-07-13 10:47:51]   think      -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-13 10:47:51]   coding     -> qwen/qwen3-coder:free
+[2026-07-13 10:47:51]   multitask  -> openai/gpt-oss-120b:free
+[2026-07-13 10:47:51]   fetch      -> openai/gpt-oss-20b:free
+[2026-07-13 10:47:51]   automate   -> meta-llama/llama-3.2-3b-instruct:free
+[2026-07-13 10:48:46] TEAM request (model=auto, stream=True)
+[2026-07-13 10:48:50] [think] primary qwen/qwen3-next-80b-a3b-instruct:free failed (qwen/qwen3-next-80b-a3b-instruct:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"qwen/qwen3-next-80b-a3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice","is_); trying alternatives
+[2026-07-13 10:49:05] [think] recovered via fallback tencent/hy3:free
+[2026-07-13 10:49:05] [planner] plan roles: ['think', 'automate']
+[2026-07-13 10:49:05] TEAM running roles: ['think', 'automate']
+[2026-07-13 10:49:06] [think] primary qwen/qwen3-next-80b-a3b-instruct:free failed (qwen/qwen3-next-80b-a3b-instruct:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"qwen/qwen3-next-80b-a3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice","is_); trying alternatives
+[2026-07-13 10:49:47] [think] recovered via fallback tencent/hy3:free
+[2026-07-13 10:49:47] [think] completed (2082 chars)
+[2026-07-13 10:49:48] [automate] primary meta-llama/llama-3.2-3b-instruct:free failed (meta-llama/llama-3.2-3b-instruct:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"meta-llama/llama-3.2-3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice","is_); trying alternatives
+[2026-07-13 10:50:24] [automate] recovered via fallback tencent/hy3:free
+[2026-07-13 10:50:24] [automate] completed (1135 chars)
+[2026-07-13 10:54:39] [discover] found 23 free models on OpenRouter
+[2026-07-13 10:54:39] [discover] fallback pool size per role: 22
+[2026-07-13 10:54:39] ============================================================
+[2026-07-13 10:54:39] STARTING FREE MULTI-AGENT TEAM
+[2026-07-13 10:54:39] Log: C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-13 10:54:39] OpenRouter keys loaded: 1
+[2026-07-13 10:54:39] Roles:
+[2026-07-13 10:54:39]   think      -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-13 10:54:39]   coding     -> qwen/qwen3-coder:free
+[2026-07-13 10:54:39]   multitask  -> openai/gpt-oss-120b:free
+[2026-07-13 10:54:39]   fetch      -> openai/gpt-oss-20b:free
+[2026-07-13 10:54:39]   automate   -> meta-llama/llama-3.2-3b-instruct:free
+[2026-07-13 10:54:56] TEAM request (model=auto, stream=True)
+[2026-07-13 10:54:56] TEAM exception: name 'time' is not defined
+[2026-07-13 10:54:56] Traceback (most recent call last):
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 436, in chat
+    out = run_team(task)
+          ^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 336, in run_team
+    plan = plan_steps(task_text)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 308, in plan_steps
+    out, err = call_model(
+               ^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 234, in call_model
+    text, err = _try_model(role["model"], sys_prompt, user_prompt, max_tokens)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 194, in _try_model
+    now = time.time()
+          ^^^^
+NameError: name 'time' is not defined. Did you forget to import 'time'
+
+[2026-07-13 10:54:57] TEAM request (model=auto, stream=True)
+[2026-07-13 10:54:57] TEAM exception: name 'time' is not defined
+[2026-07-13 10:54:57] Traceback (most recent call last):
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 436, in chat
+    out = run_team(task)
+          ^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 336, in run_team
+    plan = plan_steps(task_text)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 308, in plan_steps
+    out, err = call_model(
+               ^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 234, in call_model
+    text, err = _try_model(role["model"], sys_prompt, user_prompt, max_tokens)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 194, in _try_model
+    now = time.time()
+          ^^^^
+NameError: name 'time' is not defined. Did you forget to import 'time'
+
+[2026-07-13 10:54:58] TEAM request (model=auto, stream=True)
+[2026-07-13 10:54:58] TEAM exception: name 'time' is not defined
+[2026-07-13 10:54:58] Traceback (most recent call last):
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 436, in chat
+    out = run_team(task)
+          ^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 336, in run_team
+    plan = plan_steps(task_text)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 308, in plan_steps
+    out, err = call_model(
+               ^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 234, in call_model
+    text, err = _try_model(role["model"], sys_prompt, user_prompt, max_tokens)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 194, in _try_model
+    now = time.time()
+          ^^^^
+NameError: name 'time' is not defined. Did you forget to import 'time'
+
+[2026-07-13 10:55:00] TEAM request (model=auto, stream=True)
+[2026-07-13 10:55:00] TEAM exception: name 'time' is not defined
+[2026-07-13 10:55:00] Traceback (most recent call last):
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 436, in chat
+    out = run_team(task)
+          ^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 336, in run_team
+    plan = plan_steps(task_text)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 308, in plan_steps
+    out, err = call_model(
+               ^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 234, in call_model
+    text, err = _try_model(role["model"], sys_prompt, user_prompt, max_tokens)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 194, in _try_model
+    now = time.time()
+          ^^^^
+NameError: name 'time' is not defined. Did you forget to import 'time'
+
+[2026-07-13 10:55:01] TEAM request (model=auto, stream=True)
+[2026-07-13 10:55:01] TEAM exception: name 'time' is not defined
+[2026-07-13 10:55:01] Traceback (most recent call last):
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 436, in chat
+    out = run_team(task)
+          ^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 336, in run_team
+    plan = plan_steps(task_text)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 308, in plan_steps
+    out, err = call_model(
+               ^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 234, in call_model
+    text, err = _try_model(role["model"], sys_prompt, user_prompt, max_tokens)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 194, in _try_model
+    now = time.time()
+          ^^^^
+NameError: name 'time' is not defined. Did you forget to import 'time'
+
+[2026-07-13 10:55:01] TEAM request (model=auto, stream=True)
+[2026-07-13 10:55:01] TEAM exception: name 'time' is not defined
+[2026-07-13 10:55:01] Traceback (most recent call last):
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 436, in chat
+    out = run_team(task)
+          ^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 336, in run_team
+    plan = plan_steps(task_text)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 308, in plan_steps
+    out, err = call_model(
+               ^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 234, in call_model
+    text, err = _try_model(role["model"], sys_prompt, user_prompt, max_tokens)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 194, in _try_model
+    now = time.time()
+          ^^^^
+NameError: name 'time' is not defined. Did you forget to import 'time'
+
+[2026-07-13 10:55:06] TEAM request (model=auto, stream=True)
+[2026-07-13 10:55:06] TEAM exception: name 'time' is not defined
+[2026-07-13 10:55:06] Traceback (most recent call last):
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 436, in chat
+    out = run_team(task)
+          ^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 336, in run_team
+    plan = plan_steps(task_text)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 308, in plan_steps
+    out, err = call_model(
+               ^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 234, in call_model
+    text, err = _try_model(role["model"], sys_prompt, user_prompt, max_tokens)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 194, in _try_model
+    now = time.time()
+          ^^^^
+NameError: name 'time' is not defined. Did you forget to import 'time'
+
+[2026-07-13 10:55:07] TEAM request (model=auto, stream=True)
+[2026-07-13 10:55:07] TEAM exception: name 'time' is not defined
+[2026-07-13 10:55:07] Traceback (most recent call last):
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 436, in chat
+    out = run_team(task)
+          ^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 336, in run_team
+    plan = plan_steps(task_text)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 308, in plan_steps
+    out, err = call_model(
+               ^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 234, in call_model
+    text, err = _try_model(role["model"], sys_prompt, user_prompt, max_tokens)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 194, in _try_model
+    now = time.time()
+          ^^^^
+NameError: name 'time' is not defined. Did you forget to import 'time'
+
+[2026-07-13 10:55:07] TEAM request (model=auto, stream=True)
+[2026-07-13 10:55:07] TEAM exception: name 'time' is not defined
+[2026-07-13 10:55:07] Traceback (most recent call last):
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 436, in chat
+    out = run_team(task)
+          ^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 336, in run_team
+    plan = plan_steps(task_text)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 308, in plan_steps
+    out, err = call_model(
+               ^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 234, in call_model
+    text, err = _try_model(role["model"], sys_prompt, user_prompt, max_tokens)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 194, in _try_model
+    now = time.time()
+          ^^^^
+NameError: name 'time' is not defined. Did you forget to import 'time'
+
+[2026-07-13 10:55:16] TEAM request (model=auto, stream=True)
+[2026-07-13 10:55:16] TEAM exception: name 'time' is not defined
+[2026-07-13 10:55:16] Traceback (most recent call last):
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 436, in chat
+    out = run_team(task)
+          ^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 336, in run_team
+    plan = plan_steps(task_text)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 308, in plan_steps
+    out, err = call_model(
+               ^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 234, in call_model
+    text, err = _try_model(role["model"], sys_prompt, user_prompt, max_tokens)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 194, in _try_model
+    now = time.time()
+          ^^^^
+NameError: name 'time' is not defined. Did you forget to import 'time'
+
+[2026-07-13 10:55:16] TEAM request (model=auto, stream=True)
+[2026-07-13 10:55:16] TEAM exception: name 'time' is not defined
+[2026-07-13 10:55:16] Traceback (most recent call last):
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 436, in chat
+    out = run_team(task)
+          ^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 336, in run_team
+    plan = plan_steps(task_text)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 308, in plan_steps
+    out, err = call_model(
+               ^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 234, in call_model
+    text, err = _try_model(role["model"], sys_prompt, user_prompt, max_tokens)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 194, in _try_model
+    now = time.time()
+          ^^^^
+NameError: name 'time' is not defined. Did you forget to import 'time'
+
+[2026-07-13 10:55:17] TEAM request (model=auto, stream=True)
+[2026-07-13 10:55:17] TEAM exception: name 'time' is not defined
+[2026-07-13 10:55:17] Traceback (most recent call last):
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 436, in chat
+    out = run_team(task)
+          ^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 336, in run_team
+    plan = plan_steps(task_text)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 308, in plan_steps
+    out, err = call_model(
+               ^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 234, in call_model
+    text, err = _try_model(role["model"], sys_prompt, user_prompt, max_tokens)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.py", line 194, in _try_model
+    now = time.time()
+          ^^^^
+NameError: name 'time' is not defined. Did you forget to import 'time'
+
+[2026-07-13 10:58:30] [discover] found 23 free models on OpenRouter
+[2026-07-13 10:58:30] [discover] fallback pool size per role: 22
+[2026-07-13 10:58:30] ============================================================
+[2026-07-13 10:58:30] STARTING FREE MULTI-AGENT TEAM
+[2026-07-13 10:58:30] Log: C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-13 10:58:30] OpenRouter keys loaded: 1
+[2026-07-13 10:58:30] Roles:
+[2026-07-13 10:58:30]   think      -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-13 10:58:30]   coding     -> qwen/qwen3-coder:free
+[2026-07-13 10:58:30]   multitask  -> openai/gpt-oss-120b:free
+[2026-07-13 10:58:30]   fetch      -> openai/gpt-oss-20b:free
+[2026-07-13 10:58:30]   automate   -> meta-llama/llama-3.2-3b-instruct:free
+[2026-07-13 10:58:42] TEAM request (model=auto, stream=True)
+[2026-07-13 10:58:45] [ratelimit] qwen/qwen3-next-80b-a3b-instruct:free cooled for 30s
+[2026-07-13 10:58:45] [think] primary qwen/qwen3-next-80b-a3b-instruct:free failed (qwen/qwen3-next-80b-a3b-instruct:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"qwen/qwen3-next-80b-a3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice","is_); trying alternatives
+[2026-07-13 10:59:55] [think] recovered via fallback tencent/hy3:free
+[2026-07-13 10:59:55] TEAM running roles: ['think', 'multitask', 'automate']
+[2026-07-13 10:59:58] [ratelimit] qwen/qwen3-next-80b-a3b-instruct:free cooled for 30s
+[2026-07-13 10:59:58] [think] primary qwen/qwen3-next-80b-a3b-instruct:free failed (qwen/qwen3-next-80b-a3b-instruct:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"qwen/qwen3-next-80b-a3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice","is_); trying alternatives
+[2026-07-13 11:00:32] [think] recovered via fallback tencent/hy3:free
+[2026-07-13 11:00:32] [think] completed (689 chars)
+[2026-07-13 11:00:33] [multitask] primary openai/gpt-oss-120b:free failed (openai/gpt-oss-120b:free HTTP 400: {"error":{"message":"This endpoint's maximum context length is 131072 tokens. However, you requested about 152114 tokens (150114 of text input, 2000 in the output). Please reduce the length of either one, or use the context-compression plugin to compress your prompt automatically.","code":400,"metad); trying alternatives
+[2026-07-13 11:01:11] [multitask] recovered via fallback tencent/hy3:free
+[2026-07-13 11:01:11] [multitask] completed (386 chars)
+[2026-07-13 11:01:11] [automate] primary meta-llama/llama-3.2-3b-instruct:free failed (meta-llama/llama-3.2-3b-instruct:free HTTP 400: {"error":{"message":"This endpoint's maximum context length is 131072 tokens. However, you requested about 152381 tokens (150381 of text input, 2000 in the output). Please reduce the length of either one, or use the context-compression plugin to compress your prompt automatically.","code":400,"metad); trying alternatives
+[2026-07-13 11:02:05] [automate] recovered via fallback tencent/hy3:free
+[2026-07-13 11:02:05] [automate] completed (918 chars)
+[2026-07-13 11:04:17] TEAM request (model=auto, stream=True)
+[2026-07-13 11:04:20] [ratelimit] qwen/qwen3-next-80b-a3b-instruct:free cooled for 30s
+[2026-07-13 11:04:20] [think] primary qwen/qwen3-next-80b-a3b-instruct:free failed (qwen/qwen3-next-80b-a3b-instruct:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"qwen/qwen3-next-80b-a3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice","is_); trying alternatives
+[2026-07-13 11:04:46] [think] recovered via fallback tencent/hy3:free
+[2026-07-13 11:04:46] TEAM running roles: ['think', 'multitask', 'automate']
+[2026-07-13 11:04:46] [think] primary qwen/qwen3-next-80b-a3b-instruct:free failed (qwen/qwen3-next-80b-a3b-instruct:free in cooldown (1s left)); trying alternatives
+[2026-07-13 11:05:06] [think] recovered via fallback tencent/hy3:free
+[2026-07-13 11:05:06] [think] completed (146 chars)
+[2026-07-13 11:05:43] [multitask] completed (46 chars)
+[2026-07-13 11:05:46] [ratelimit] meta-llama/llama-3.2-3b-instruct:free cooled for 30s
+[2026-07-13 11:05:46] [automate] primary meta-llama/llama-3.2-3b-instruct:free failed (meta-llama/llama-3.2-3b-instruct:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"meta-llama/llama-3.2-3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice","is_); trying alternatives
+[2026-07-13 11:06:12] [automate] recovered via fallback tencent/hy3:free
+[2026-07-13 11:06:12] [automate] completed (391 chars)
+[2026-07-13 11:06:58] TEAM request (model=auto, stream=True)
+[2026-07-13 11:07:00] [ratelimit] qwen/qwen3-next-80b-a3b-instruct:free cooled for 30s
+[2026-07-13 11:07:00] [think] primary qwen/qwen3-next-80b-a3b-instruct:free failed (qwen/qwen3-next-80b-a3b-instruct:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"qwen/qwen3-next-80b-a3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice","is_); trying alternatives
+[2026-07-13 11:07:25] [think] recovered via fallback tencent/hy3:free
+[2026-07-13 11:07:25] [planner] plan roles: ['think', 'automate']
+[2026-07-13 11:07:25] TEAM running roles: ['think', 'automate']
+[2026-07-13 11:07:25] [think] primary qwen/qwen3-next-80b-a3b-instruct:free failed (qwen/qwen3-next-80b-a3b-instruct:free in cooldown (3s left)); trying alternatives
+[2026-07-13 11:07:47] [think] recovered via fallback tencent/hy3:free
+[2026-07-13 11:07:47] [think] completed (1912 chars)
+[2026-07-13 11:07:49] [ratelimit] meta-llama/llama-3.2-3b-instruct:free cooled for 30s
+[2026-07-13 11:07:49] [automate] primary meta-llama/llama-3.2-3b-instruct:free failed (meta-llama/llama-3.2-3b-instruct:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"meta-llama/llama-3.2-3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice","is_); trying alternatives
+[2026-07-13 11:07:53] [automate] recovered via fallback tencent/hy3:free
+[2026-07-13 11:07:53] [automate] completed (94 chars)
+[2026-07-13 11:07:55] TEAM request (model=auto, stream=True)
+[2026-07-13 11:07:57] [ratelimit] qwen/qwen3-next-80b-a3b-instruct:free cooled for 30s
+[2026-07-13 11:07:57] [think] primary qwen/qwen3-next-80b-a3b-instruct:free failed (qwen/qwen3-next-80b-a3b-instruct:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"qwen/qwen3-next-80b-a3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice","is_); trying alternatives
+[2026-07-13 11:08:40] [think] recovered via fallback poolside/laguna-xs-2.1:free
+[2026-07-13 11:08:40] [planner] plan roles: ['think']
+[2026-07-13 11:08:40] TEAM running roles: ['think']
+[2026-07-13 11:08:41] [ratelimit] qwen/qwen3-next-80b-a3b-instruct:free cooled for 30s
+[2026-07-13 11:08:41] [think] primary qwen/qwen3-next-80b-a3b-instruct:free failed (qwen/qwen3-next-80b-a3b-instruct:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"qwen/qwen3-next-80b-a3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice","is_); trying alternatives
+[2026-07-13 11:09:02] [think] recovered via fallback tencent/hy3:free
+[2026-07-13 11:09:02] [think] completed (2004 chars)
+[2026-07-13 11:09:02] [automate] all models failed; synthesizing final answer from team work
+[2026-07-13 11:13:45] ============================================================
+[2026-07-13 11:13:45] STARTING SMART FREE MODEL PROXY
+[2026-07-13 11:13:45] Log: c:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-13 11:13:45] OpenRouter keys loaded: 1
+[2026-07-13 11:13:45] Model priority list: 23 models
+[2026-07-13 11:13:45] Pinnable roles: ['think', 'coding', 'multitask', 'fetch', 'automate']
+[2026-07-13 11:13:45] [startup] finding first working model...
+[2026-07-13 11:13:48] [discover] tencent/hy3:free failed (None)
+[2026-07-13 11:13:49] [discover] poolside/laguna-xs-2.1:free failed (None)
+[2026-07-13 11:13:52] [discover] poolside/laguna-m.1:free failed (None)
+[2026-07-13 11:13:54] [discover] cohere/north-mini-code:free failed (None)
+[2026-07-13 11:13:55] [discover] liquid/lfm-2.5-1.2b-instruct:free failed (liquid/lfm-2.5-1.2b-instruct:free HTTP 502)
+[2026-07-13 11:13:56] [discover] liquid/lfm-2.5-1.2b-thinking:free failed (liquid/lfm-2.5-1.2b-thinking:free HTTP 502)
+[2026-07-13 11:13:57] [discover] nvidia/nemotron-nano-9b-v2:free failed (None)
+[2026-07-13 11:13:58] [discover] working model found: nvidia/nemotron-3-nano-30b-a3b:free
+[2026-07-13 11:13:58] [startup] working model found: nvidia/nemotron-3-nano-30b-a3b:free
+[2026-07-13 11:14:13] TEAM request (model=auto, stream=False)
+[2026-07-13 11:14:14] [ratelimit] qwen/qwen3-next-80b-a3b-instruct:free cooled for 30s
+[2026-07-13 11:14:14] [think] primary qwen/qwen3-next-80b-a3b-instruct:free failed (qwen/qwen3-next-80b-a3b-instruct:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"qwen/qwen3-next-80b-a3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice","is_); trying alternatives
+[2026-07-13 11:14:21] [think] recovered via fallback tencent/hy3:free
+[2026-07-13 11:14:21] [planner] plan roles: ['think', 'automate']
+[2026-07-13 11:14:21] TEAM running roles: ['think', 'automate']
+[2026-07-13 11:14:21] [think] primary qwen/qwen3-next-80b-a3b-instruct:free failed (qwen/qwen3-next-80b-a3b-instruct:free in cooldown (22s left)); trying alternatives
+[2026-07-13 11:14:30] [think] recovered via fallback tencent/hy3:free
+[2026-07-13 11:14:30] [think] completed (725 chars)
+[2026-07-13 11:14:32] [ratelimit] meta-llama/llama-3.2-3b-instruct:free cooled for 30s
+[2026-07-13 11:14:32] [automate] primary meta-llama/llama-3.2-3b-instruct:free failed (meta-llama/llama-3.2-3b-instruct:free HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"meta-llama/llama-3.2-3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Venice","is_); trying alternatives
+[2026-07-13 11:14:38] [automate] recovered via fallback tencent/hy3:free
+[2026-07-13 11:14:38] [automate] completed (5 chars)
+[2026-07-13 11:18:38] ============================================================
+[2026-07-13 11:18:38] STARTING FREE MULTI-AGENT TEAM (per-role caching)
+[2026-07-13 11:18:38] Log: c:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-13 11:18:38] OpenRouter keys loaded: 1
+[2026-07-13 11:18:38] Roles:
+[2026-07-13 11:18:38]   think      -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-13 11:18:38]   coding     -> qwen/qwen3-coder:free
+[2026-07-13 11:18:38]   multitask  -> openai/gpt-oss-120b:free
+[2026-07-13 11:18:38]   fetch      -> openai/gpt-oss-20b:free
+[2026-07-13 11:18:38]   automate   -> meta-llama/llama-3.2-3b-instruct:free
+[2026-07-13 11:19:05] TEAM request (model=auto, stream=False)
+[2026-07-13 11:19:06] [ratelimit] qwen/qwen3-next-80b-a3b-instruct:free cooled for 30s
+[2026-07-13 11:19:15] [think] cached working model: tencent/hy3:free
+[2026-07-13 11:19:15] [planner] plan roles: ['think', 'automate']
+[2026-07-13 11:19:15] TEAM running roles: ['think', 'automate']
+[2026-07-13 11:19:39] [think] completed (1141 chars)
+[2026-07-13 11:19:40] [ratelimit] meta-llama/llama-3.2-3b-instruct:free cooled for 30s
+[2026-07-13 11:19:45] [automate] cached working model: tencent/hy3:free
+[2026-07-13 11:19:45] [automate] completed (5 chars)
+[2026-07-13 11:19:56] TEAM request (model=auto, stream=False)
+[2026-07-13 11:20:05] [planner] plan roles: ['think', 'automate']
+[2026-07-13 11:20:05] TEAM running roles: ['think', 'automate']
+[2026-07-13 11:21:13] ============================================================
+[2026-07-13 11:21:13] STARTING FREE MULTI-AGENT TEAM (per-role caching)
+[2026-07-13 11:21:13] Log: C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-13 11:21:13] OpenRouter keys loaded: 1
+[2026-07-13 11:21:13] Roles:
+[2026-07-13 11:21:13]   think      -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-13 11:21:13]   coding     -> qwen/qwen3-coder:free
+[2026-07-13 11:21:13]   multitask  -> openai/gpt-oss-120b:free
+[2026-07-13 11:21:13]   fetch      -> openai/gpt-oss-20b:free
+[2026-07-13 11:21:13]   automate   -> meta-llama/llama-3.2-3b-instruct:free
+[2026-07-13 11:21:39] TEAM request (model=auto, stream=True)
+[2026-07-13 11:21:42] [ratelimit] qwen/qwen3-next-80b-a3b-instruct:free cooled for 30s
+[2026-07-13 11:21:59] [think] cached working model: tencent/hy3:free
+[2026-07-13 11:21:59] [planner] plan roles: ['think', 'automate']
+[2026-07-13 11:21:59] TEAM running roles: ['think', 'automate']
+[2026-07-13 11:22:21] [think] completed (2208 chars)
+[2026-07-13 11:22:22] [ratelimit] meta-llama/llama-3.2-3b-instruct:free cooled for 30s
+[2026-07-13 11:22:30] [automate] cached working model: tencent/hy3:free
+[2026-07-13 11:22:30] [automate] completed (35 chars)
+[2026-07-13 11:22:31] TEAM request (model=auto, stream=True)
+[2026-07-13 11:22:52] [planner] error: [think] all models failed: None -> fallback plan
+[2026-07-13 11:22:52] TEAM running roles: ['think', 'multitask', 'automate']
+[2026-07-13 11:23:20] [think] completed (909 chars)
+[2026-07-13 11:23:23] [ratelimit] openai/gpt-oss-120b:free cooled for 30s
+[2026-07-13 11:23:45] [multitask] cached working model: tencent/hy3:free
+[2026-07-13 11:23:45] [multitask] completed (849 chars)
+[2026-07-13 11:24:03] [automate] completed (747 chars)
+[2026-07-13 14:58:15] ============================================================
+[2026-07-13 14:58:15] STARTING FREE MULTI-AGENT TEAM (per-role caching)
+[2026-07-13 14:58:15] Log: C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-13 14:58:15] OpenRouter keys loaded: 1
+[2026-07-13 14:58:15] Roles:
+[2026-07-13 14:58:15]   think      -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-13 14:58:15]   coding     -> qwen/qwen3-coder:free
+[2026-07-13 14:58:15]   multitask  -> openai/gpt-oss-120b:free
+[2026-07-13 14:58:15]   fetch      -> openai/gpt-oss-20b:free
+[2026-07-13 14:58:15]   automate   -> meta-llama/llama-3.2-3b-instruct:free
+[2026-07-13 14:59:01] TEAM request (model=auto, stream=True)
+[2026-07-13 14:59:05] [ratelimit] qwen/qwen3-next-80b-a3b-instruct:free cooled for 30s
+[2026-07-13 15:00:37] [think] cached working model: poolside/laguna-xs-2.1:free
+[2026-07-13 15:00:37] [planner] plan roles: ['think', 'coding', 'coding']
+[2026-07-13 15:00:37] TEAM running roles: ['think', 'coding', 'coding']
+[2026-07-13 15:00:42] [think] completed (2494 chars)
+[2026-07-13 15:00:44] [ratelimit] qwen/qwen3-coder:free cooled for 30s
+[2026-07-13 15:00:44] [ratelimit] qwen/qwen3-coder:free cooled for 30s
+[2026-07-13 15:06:14] ============================================================
+[2026-07-13 15:06:14] STARTING FREE MULTI-AGENT TEAM (per-role caching)
+[2026-07-13 15:06:14] Log: C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-13 15:06:14] OpenRouter keys loaded: 1
+[2026-07-13 15:06:14] Roles:
+[2026-07-13 15:06:14]   think      -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-13 15:06:14]   coding     -> qwen/qwen3-coder:free
+[2026-07-13 15:06:14]   multitask  -> openai/gpt-oss-120b:free
+[2026-07-13 15:06:14]   fetch      -> openai/gpt-oss-20b:free
+[2026-07-13 15:06:14]   automate   -> meta-llama/llama-3.2-3b-instruct:free
+[2026-07-13 15:11:36] ============================================================
+[2026-07-13 15:11:36] STARTING FREE MULTI-AGENT TEAM (per-role caching)
+[2026-07-13 15:11:36] Log: C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-13 15:11:36] OpenRouter keys loaded: 1
+[2026-07-13 15:11:36] Roles:
+[2026-07-13 15:11:36]   think      -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-13 15:11:36]   coding     -> qwen/qwen3-coder:free
+[2026-07-13 15:11:36]   multitask  -> openai/gpt-oss-120b:free
+[2026-07-13 15:11:36]   fetch      -> openai/gpt-oss-20b:free
+[2026-07-13 15:11:36]   automate   -> meta-llama/llama-3.2-3b-instruct:free
+[2026-07-13 15:11:49] TEAM request (model=auto, stream=True)
+[2026-07-13 15:11:53] [ratelimit] qwen/qwen3-next-80b-a3b-instruct:free cooled for 30s
+[2026-07-13 15:12:41] [think] cached working model: tencent/hy3:free
+[2026-07-13 15:12:41] [planner] plan roles: ['think', 'coding', 'automate']
+[2026-07-13 15:12:41] TEAM running roles: ['think', 'coding', 'automate']
+[2026-07-13 15:13:26] [think] completed (31 chars)
+[2026-07-13 15:13:27] [ratelimit] qwen/qwen3-coder:free cooled for 30s
+[2026-07-13 15:14:01] [coding] cached working model: poolside/laguna-xs-2.1:free
+[2026-07-13 15:14:01] [coding] completed (190 chars)
+[2026-07-13 15:14:02] [ratelimit] meta-llama/llama-3.2-3b-instruct:free cooled for 30s
+[2026-07-13 15:14:43] [automate] cached working model: tencent/hy3:free
+[2026-07-13 15:14:43] [automate] completed (1440 chars)
+[2026-07-13 15:14:47] TEAM request (model=auto, stream=True)
+[2026-07-13 15:15:18] [planner] plan roles: ['think', 'coding', 'automate']
+[2026-07-13 15:15:18] TEAM running roles: ['think', 'coding', 'automate']
+[2026-07-13 15:16:01] [think] completed (31 chars)
+[2026-07-13 15:16:03] [coding] completed (192 chars)
+[2026-07-13 15:16:27] [automate] completed (1060 chars)
+[2026-07-13 15:16:32] TEAM request (model=auto, stream=True)
+[2026-07-13 15:16:53] [planner] plan roles: ['think', 'coding', 'automate']
+[2026-07-13 15:16:53] TEAM running roles: ['think', 'coding', 'automate']
+[2026-07-13 15:17:30] [think] completed (31 chars)
+[2026-07-13 15:17:31] [ratelimit] poolside/laguna-xs-2.1:free cooled for 30s
+[2026-07-13 15:17:31] [coding] completed (64 chars)
+[2026-07-13 15:17:49] [automate] completed (718 chars)
+[2026-07-13 15:18:01] TEAM request (model=auto, stream=True)
+[2026-07-13 15:18:24] [planner] plan roles: ['think', 'coding', 'automate']
+[2026-07-13 15:18:24] TEAM running roles: ['think', 'coding', 'automate']
+[2026-07-13 15:19:02] [think] completed (31 chars)
+[2026-07-13 15:19:03] [ratelimit] poolside/laguna-xs-2.1:free cooled for 30s
+[2026-07-13 15:19:03] [coding] completed (64 chars)
+[2026-07-13 15:19:24] [automate] completed (1045 chars)
+[2026-07-13 15:19:29] TEAM request (model=auto, stream=True)
+[2026-07-13 15:20:02] [planner] plan roles: ['think', 'coding', 'automate']
+[2026-07-13 15:20:02] TEAM running roles: ['think', 'coding', 'automate']
+[2026-07-13 15:20:41] [think] completed (427 chars)
+[2026-07-13 15:20:42] [ratelimit] poolside/laguna-xs-2.1:free cooled for 30s
+[2026-07-13 15:20:42] [coding] completed (64 chars)
+[2026-07-13 15:21:15] [automate] completed (1528 chars)
+[2026-07-13 15:21:20] TEAM request (model=auto, stream=True)
+[2026-07-13 15:21:48] [planner] plan roles: ['think', 'coding', 'automate']
+[2026-07-13 15:21:48] TEAM running roles: ['think', 'coding', 'automate']
+[2026-07-13 15:22:29] [think] completed (31 chars)
+[2026-07-13 15:22:30] [ratelimit] poolside/laguna-xs-2.1:free cooled for 30s
+[2026-07-13 15:22:30] [coding] completed (64 chars)
+[2026-07-13 15:22:50] [automate] completed (781 chars)
+[2026-07-13 15:23:07] TEAM request (model=auto, stream=True)
+[2026-07-13 15:23:29] [planner] plan roles: ['think', 'coding', 'automate']
+[2026-07-13 15:23:29] TEAM running roles: ['think', 'coding', 'automate']
+[2026-07-13 15:24:05] [think] completed (31 chars)
+[2026-07-13 15:24:06] [ratelimit] poolside/laguna-xs-2.1:free cooled for 30s
+[2026-07-13 15:24:06] [coding] completed (64 chars)
+[2026-07-13 15:24:28] [automate] completed (1241 chars)
+[2026-07-13 15:24:32] TEAM request (model=auto, stream=True)
+[2026-07-13 15:25:04] [planner] plan roles: ['think', 'coding', 'automate']
+[2026-07-13 15:25:04] TEAM running roles: ['think', 'coding', 'automate']
+[2026-07-13 15:25:26] [think] completed (31 chars)
+[2026-07-13 15:25:27] [ratelimit] poolside/laguna-xs-2.1:free cooled for 30s
+[2026-07-13 15:25:27] [coding] completed (64 chars)
+[2026-07-13 15:25:52] [automate] completed (938 chars)
+[2026-07-13 15:25:56] TEAM request (model=auto, stream=True)
+[2026-07-13 15:26:37] [planner] plan roles: ['think', 'coding', 'automate']
+[2026-07-13 15:26:37] TEAM running roles: ['think', 'coding', 'automate']
+[2026-07-13 15:27:25] [think] completed (31 chars)
+[2026-07-13 15:27:26] [ratelimit] poolside/laguna-xs-2.1:free cooled for 30s
+[2026-07-13 15:27:26] [coding] completed (64 chars)
+[2026-07-13 15:31:56] ============================================================
+[2026-07-13 15:31:56] STARTING MULTI-AGENT TEAM (strongest-brain-first, per-role caching)
+[2026-07-13 15:31:56] Log: C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-13 15:31:56] OpenRouter keys loaded: 1
+[2026-07-13 15:31:56] Claude tier: disabled (no ANTHROPIC_API_KEY in my-keys.env)
+[2026-07-13 15:31:56] Roles:
+[2026-07-13 15:31:56]   think      -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-13 15:31:56]   coding     -> qwen/qwen3-coder:free
+[2026-07-13 15:31:56]   multitask  -> openai/gpt-oss-120b:free
+[2026-07-13 15:31:56]   fetch      -> openai/gpt-oss-20b:free
+[2026-07-13 15:31:56]   automate   -> meta-llama/llama-3.2-3b-instruct:free
+[2026-07-13 15:32:33] TEAM request (model=auto, stream=True)
+[2026-07-13 15:32:35] [ratelimit] qwen/qwen3-next-80b-a3b-instruct:free cooled for 30s
+[2026-07-13 15:32:36] [ratelimit] nvidia/nemotron-3-ultra-550b-a55b:free cooled for 30s
+[2026-07-13 15:32:39] [ratelimit] nousresearch/hermes-3-llama-3.1-405b:free cooled for 30s
+[2026-07-13 15:32:40] [ratelimit] nvidia/nemotron-3-super-120b-a12b:free cooled for 30s
+[2026-07-13 15:33:17] [think] cached working model: openai/gpt-oss-120b:free
+[2026-07-13 15:33:17] [planner] plan roles: ['think']
+[2026-07-13 15:33:17] TEAM running roles: ['think']
+[2026-07-13 15:36:16] [think] completed (12508 chars)
+[2026-07-13 15:36:16] [automate] all models failed; synthesizing final answer from team work
+[2026-07-13 15:37:37] TEAM request (model=auto, stream=True)
+[2026-07-13 15:37:45] [ratelimit] nvidia/nemotron-3-ultra-550b-a55b:free cooled for 30s
+[2026-07-13 15:37:47] [ratelimit] nousresearch/hermes-3-llama-3.1-405b:free cooled for 30s
+[2026-07-13 15:37:48] [ratelimit] nvidia/nemotron-3-super-120b-a12b:free cooled for 30s
+[2026-07-13 15:37:51] [ratelimit] qwen/qwen3-next-80b-a3b-instruct:free cooled for 30s
+[2026-07-13 15:37:53] [ratelimit] nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free cooled for 30s
+[2026-07-13 15:37:53] [ratelimit] nvidia/nemotron-3-nano-30b-a3b:free cooled for 30s
+[2026-07-13 15:37:55] [ratelimit] google/gemma-4-31b-it:free cooled for 30s
+[2026-07-13 15:37:55] [ratelimit] google/gemma-4-26b-a4b-it:free cooled for 30s
+[2026-07-13 15:37:59] [ratelimit] qwen/qwen3-coder:free cooled for 30s
+[2026-07-13 15:38:20] [planner] plan roles: ['think']
+[2026-07-13 15:38:20] TEAM running roles: ['think']
+[2026-07-13 15:38:29] [multitask] cached working model: openai/gpt-oss-20b:free
+[2026-07-13 15:39:49] [think] completed (5639 chars)
+[2026-07-13 15:39:49] [automate] all models failed; synthesizing final answer from team work
+[2026-07-13 15:40:23] TEAM request (model=auto, stream=True)
+[2026-07-13 15:41:10] [planner] plan roles: ['think', 'multitask', 'think']
+[2026-07-13 15:41:10] TEAM running roles: ['think', 'multitask', 'think']
+[2026-07-13 15:41:56] [think] completed (3377 chars)
+[2026-07-13 15:42:32] [multitask] completed (5011 chars)
+[2026-07-13 15:42:32] [automate] all models failed; synthesizing final answer from team work
+[2026-07-13 15:43:13] TEAM request (model=auto, stream=True)
+[2026-07-13 15:43:38] [planner] JSON parse failed: Expecting ',' delimiter: line 6 column 6 (char 287) -> fallback plan
+[2026-07-13 15:43:38] TEAM running roles: ['think', 'multitask', 'automate']
+[2026-07-13 15:44:03] [think] completed (31 chars)
+[2026-07-13 15:44:13] [multitask] completed (35 chars)
+[2026-07-13 15:44:15] [ratelimit] meta-llama/llama-3.2-3b-instruct:free cooled for 30s
+[2026-07-13 15:44:16] [ratelimit] nvidia/nemotron-3-ultra-550b-a55b:free cooled for 30s
+[2026-07-13 15:44:18] [ratelimit] nousresearch/hermes-3-llama-3.1-405b:free cooled for 30s
+[2026-07-13 15:44:19] [ratelimit] nvidia/nemotron-3-super-120b-a12b:free cooled for 30s
+[2026-07-13 15:45:39] [automate] cached working model: openai/gpt-oss-120b:free
+[2026-07-13 15:45:39] [automate] completed (296 chars)
+[2026-07-14 10:43:48] ============================================================
+[2026-07-14 10:43:48] STARTING MULTI-AGENT TEAM (best-model-first, per-role caching)
+[2026-07-14 10:43:48] Log: c:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-14 10:43:48] OpenRouter keys loaded: 1
+[2026-07-14 10:43:48] Primary model: qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-14 10:43:48] Claude tier: disabled (no ANTHROPIC_API_KEY in my-keys.env)
+[2026-07-14 10:43:48] Roles:
+[2026-07-14 10:43:48]   think      -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-14 10:43:48]   coding     -> qwen/qwen3-coder:free
+[2026-07-14 10:43:48]   multitask  -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-14 10:43:48]   fetch      -> nousresearch/hermes-3-llama-3.1-405b:free
+[2026-07-14 10:43:48]   automate   -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-14 10:44:28] TEAM request (model=auto, stream=False)
+[2026-07-14 10:44:30] [ratelimit] qwen/qwen3-next-80b-a3b-instruct:free cooled for 30s
+[2026-07-14 10:44:34] [ratelimit] nousresearch/hermes-3-llama-3.1-405b:free cooled for 30s
+[2026-07-14 10:44:38] [ratelimit] qwen/qwen3-coder:free cooled for 30s
+[2026-07-14 10:44:40] [think] cached working model: nvidia/nemotron-3-super-120b-a12b:free
+[2026-07-14 10:44:40] [planner] plan roles: ['think', 'automate']
+[2026-07-14 10:44:40] TEAM running roles: ['think', 'automate']
+[2026-07-14 10:44:41] [think] completed (5 chars)
+[2026-07-14 10:44:42] [automate] cached working model: nvidia/nemotron-3-ultra-550b-a55b:free
+[2026-07-14 10:44:42] [automate] completed (5 chars)
+[2026-07-14 10:50:47] ============================================================
+[2026-07-14 10:50:47] STARTING MULTI-AGENT TEAM (fast-responsive-first, per-role caching)
+[2026-07-14 10:50:47] Log: C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-14 10:50:47] OpenRouter keys loaded: 1
+[2026-07-14 10:50:47] Primary model: qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-14 10:50:47] Claude tier: disabled (no ANTHROPIC_API_KEY in my-keys.env)
+[2026-07-14 10:50:47] Roles:
+[2026-07-14 10:50:47]   think      -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-14 10:50:47]   coding     -> qwen/qwen3-coder:free
+[2026-07-14 10:50:47]   multitask  -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-14 10:50:47]   fetch      -> tencent/hy3:free
+[2026-07-14 10:50:47]   automate   -> qwen/qwen3-next-80b-a3b-instruct:free
+[2026-07-14 11:00:03] ============================================================
+[2026-07-14 11:00:03] STARTING MULTI-PROVIDER AI TEAM
+[2026-07-14 11:00:03] Log: c:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-14 11:00:58] ============================================================
+[2026-07-14 11:00:58] STARTING MULTI-PROVIDER AI TEAM
+[2026-07-14 11:00:58] Log: c:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-14 11:01:40] TEAM request (model=auto, stream=False)
+[2026-07-14 11:01:40] [think] cached: llama-3.3-70b-versatile (via groq)
+[2026-07-14 11:01:40] [planner] plan roles: ['think', 'multitask', 'automate']
+[2026-07-14 11:01:40] TEAM running roles: ['think', 'multitask', 'automate']
+[2026-07-14 11:01:42] [think] completed (1643 chars)
+[2026-07-14 11:01:44] [multitask] cached: llama-3.3-70b-versatile (via groq)
+[2026-07-14 11:01:44] [multitask] completed (1621 chars)
+[2026-07-14 11:01:45] [automate] cached: llama-3.3-70b-versatile (via groq)
+[2026-07-14 11:01:45] [automate] completed (1370 chars)
+[2026-07-14 12:03:16] ============================================================
+[2026-07-14 12:03:16] STARTING MULTI-PROVIDER AI TEAM
+[2026-07-14 12:03:16] Log: C:\Users\96650\OneDrive\Desktop\AI_BA_WORKSPACE\ai-bots-package\ai-agent-team.log
+[2026-07-14 12:04:20] TEAM request (model=auto, stream=True)
+[2026-07-14 12:04:30] [think] cached: @cf/meta/llama-3.1-8b-instruct (via cloudflare)
+[2026-07-14 12:04:30] [planner] plan roles: ['think']
+[2026-07-14 12:04:30] TEAM running roles: ['think']
+[2026-07-14 12:04:32] [think] completed (1251 chars)
+[2026-07-14 12:04:32] [automate] all models failed; synthesizing final answer from team work
+[2026-07-14 12:04:41] [multitask] cached: @cf/meta/llama-3.1-8b-instruct (via cloudflare)
+[2026-07-14 12:13:47] TEAM request (model=auto, stream=True)
+[2026-07-14 12:13:53] [planner] plan roles: ['think']
+[2026-07-14 12:13:53] TEAM running roles: ['think']
+[2026-07-14 12:13:55] [think] completed (1160 chars)
+[2026-07-14 12:13:55] [automate] all models failed; synthesizing final answer from team work
+[2026-07-14 12:14:05] TEAM request (model=auto, stream=True)
+[2026-07-14 12:14:11] [planner] JSON parse failed: Expecting ',' delimiter: line 26 column 6 (char 990) -> fallback plan
+[2026-07-14 12:14:11] TEAM running roles: ['think', 'multitask', 'automate']
+[2026-07-14 12:15:12] [think] completed (160 chars)
+[2026-07-14 12:15:12] [multitask] completed (273 chars)
+[2026-07-14 12:15:12] [automate] completed (280 chars)
+[2026-07-14 12:15:16] TEAM request (model=auto, stream=True)
+[2026-07-14 12:15:16] [planner] error: [think] all models failed: @cf/meta/llama-3.1-8b-instruct exception: HTTPSConnectionPool(host='api.cloudflare.com', port=443): Max retries exceeded with url: /client/v4/accounts/1c6533297b7118e6b29079e17585d509/ai/run/@cf/meta/llama-3.1-8b-instruct (Caused by NameResol -> fallback plan
+[2026-07-14 12:15:16] TEAM running roles: ['think', 'multitask', 'automate']
+[2026-07-14 12:15:16] [think] completed (269 chars)
+[2026-07-14 12:15:16] [multitask] completed (273 chars)
+[2026-07-14 12:15:16] [automate] completed (280 chars)
+[2026-07-14 12:15:52] TEAM request (model=auto, stream=True)
+[2026-07-14 12:16:00] [planner] JSON parse failed: Expecting ',' delimiter: line 34 column 6 (char 1058) -> fallback plan
+[2026-07-14 12:16:00] TEAM running roles: ['think', 'multitask', 'automate']
+[2026-07-14 12:16:06] [think] completed (182 chars)
+[2026-07-14 12:16:13] [multitask] completed (182 chars)
+[2026-07-14 12:16:31] [automate] cached: @cf/meta/llama-3.1-8b-instruct (via cloudflare)
+[2026-07-14 12:16:31] [automate] completed (215 chars)
+[2026-07-14 12:16:38] TEAM request (model=auto, stream=True)
+[2026-07-14 12:16:48] [planner] plan roles: ['think']
+[2026-07-14 12:16:48] TEAM running roles: ['think']
+[2026-07-14 12:16:50] [think] completed (1199 chars)
+[2026-07-14 12:16:50] [automate] all models failed; synthesizing final answer from team work
+[2026-07-14 12:17:04] TEAM request (model=auto, stream=True)
+[2026-07-14 12:17:09] [planner] JSON parse failed: Expecting ',' delimiter: line 26 column 2 (char 1029) -> fallback plan
+[2026-07-14 12:17:09] TEAM running roles: ['think', 'multitask', 'automate']
+[2026-07-14 12:17:15] [think] completed (182 chars)
+[2026-07-14 12:17:19] [multitask] completed (109 chars)
+[2026-07-14 12:17:25] [automate] completed (109 chars)
+[2026-07-14 12:17:32] TEAM request (model=auto, stream=True)
+[2026-07-14 12:17:40] [planner] JSON parse failed: Expecting ',' delimiter: line 30 column 6 (char 951) -> fallback plan
+[2026-07-14 12:17:40] TEAM running roles: ['think', 'multitask', 'automate']
+[2026-07-14 12:17:46] [think] completed (182 chars)
+[2026-07-14 12:17:52] [multitask] completed (182 chars)
+[2026-07-14 12:17:59] [automate] completed (547 chars)
+[2026-07-14 12:18:14] TEAM request (model=auto, stream=True)
+[2026-07-14 12:18:20] TEAM running roles: ['think', 'multitask', 'automate']
+[2026-07-14 12:18:27] [think] completed (1109 chars)
+[2026-07-14 12:18:34] [multitask] completed (753 chars)
+[2026-07-14 12:18:40] [automate] completed (753 chars)
